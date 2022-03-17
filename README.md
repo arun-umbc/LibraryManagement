@@ -3,6 +3,7 @@
 Library Management is a Django REST project to serve APIs
 
 ##Local setup
+
 Python version == 3.10
 
 - Use the [link](https://www.python.org/downloads/) to install the latest version of python.
