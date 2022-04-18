@@ -134,7 +134,6 @@ AUTH_USER_MODEL = 'library_app.user'
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': ('rest_framework.permissions.IsAuthenticated',),
     'DEFAULT_AUTHENTICATION_CLASSES': (
-        'octopus.authentication.TokenAuthentication',
         'rest_framework.authentication.SessionAuthentication'
     )
 }

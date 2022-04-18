@@ -70,7 +70,7 @@ def load_request():
         request_status = [a for a, b in REQUEST_STATUS.choices()]
         request_for = [a for a, b in REQUEST_FOR.choices()]
 
-        for i in range(1, 1000):
+        for i in range(1, 10000):
             request = Request()
             request.request_id = md5(f"{time.time()}".encode('utf-8')).hexdigest()
             request.user = students[random.randint(0, user_count-1)]
