@@ -23,6 +23,10 @@ class Konstants:
         return None
 
 
+TRUE_VALUES = [True, 'TRUE', 'true', 'True', 1, '1']
+FALSE_VALUES = [False, 'FALSE', 'false', 'False', 0, '0']
+
+
 ROLE_TYPES = Konstants(
     K(super_admin='SUPER_ADMIN', label='Super Admin'),
     K(student='STUDENT', label='Student'),
