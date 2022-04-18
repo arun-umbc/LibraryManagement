@@ -28,3 +28,39 @@ ROLE_TYPES = Konstants(
     K(student='STUDENT', label='Student'),
     K(librarian='LIBRARIAN', label='Librarian'),
     )
+
+
+DEPARTMENTS = Konstants(
+    K(dance='DANCE', label='Dance'),
+    K(economics='ECONOMICS', label='Economics'),
+    K(english='ENGLISH', label='English'),
+    K(psychology='PSYCHOLOGY', label='Psychology'),
+    K(computer_science='COMPUTER_SCIENCE', label='Computer Science'),
+    K(political_science='POLITICAL_SCIENCE', label='Political Science'),
+    K(statistics='STATISTICS', label='Statistics'),
+    K(mathematics='MATHEMATICS', label='Mathematics')
+    )
+
+STUDY_LEVEL = Konstants(
+    K(undergrad='UNDERGRAD', label='Undergraduate'),
+    K(grad='GRAD', label='Graduate')
+    )
+
+REQUEST_STATUS = Konstants(
+    K(pending='PENDING', label='Pending'),
+    K(approved='APPROVED', label='Approved'),
+    K(rejected='REJECTED', label='Rejected')
+    )
+
+
+REQUEST_FOR = Konstants(
+    K(sale='SALE', label='Sale'),
+    K(rent='RENT', label='Rent')
+    )
+
+
+RESERVE_STATUS = Konstants(
+    K(open='OPEN', label='Open'),
+    K(overdue='OVERDUE', label='Overdue'),
+    K(close='CLOSE', label='Close')
+    )
