@@ -16,6 +16,8 @@ LIBRARIAN_REQUEST_FETCH_SUCCESS = 'Request fetch successful'
 LIBRARIAN_REQUEST_FETCH_FAIL = 'Request fetch failed'
 LIBRARIAN_REQUEST_RETRIEVE_SUCCESS = 'Request retrieve successful'
 LIBRARIAN_REQUEST_RETRIEVE_FAIL = 'Request retrieve failed'
+LIBRARIAN_REQUEST_UPDATE_SUCCESS = 'Request update successful'
+LIBRARIAN_REQUEST_UPDATE_FAIL = 'Request update failed'
 
 STUDENT_PROFILE_RETRIEVE_SUCCESS = 'Profile retrieve successful'
 STUDENT_PROFILE_RETRIEVE_FAIL = 'Profile retrieve failed'

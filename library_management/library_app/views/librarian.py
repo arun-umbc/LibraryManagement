@@ -12,7 +12,8 @@ from utilities.constants import REQUEST_STATUS
 from utilities.helper import create_response_dict
 from utilities.messages import LIBRARIAN_BOOK_RETRIEVE_FAIL, LIBRARIAN_BOOK_RETRIEVE_SUCCESS, LIBRARIAN_BOOK_FETCH_FAIL, \
     LIBRARIAN_BOOK_FETCH_SUCCESS, LIBRARIAN_REQUEST_FETCH_SUCCESS, LIBRARIAN_REQUEST_FETCH_FAIL, \
-    LIBRARIAN_REQUEST_RETRIEVE_SUCCESS, LIBRARIAN_REQUEST_RETRIEVE_FAIL
+    LIBRARIAN_REQUEST_RETRIEVE_SUCCESS, LIBRARIAN_REQUEST_RETRIEVE_FAIL, LIBRARIAN_REQUEST_UPDATE_SUCCESS, \
+    LIBRARIAN_REQUEST_UPDATE_FAIL
 from utilities.pagination import CustomOffsetPagination
 from utilities.permissions import IsLibrarian
 
@@ -149,11 +150,11 @@ class RequestViewSet(GenericViewSet):
             serializer = self.get_serializer(instance, data=request.data, partial=partial, context={'request': request})
             if serializer.is_valid():
                 serializer.save()
-                data = create_response_dict(serializer.data, LIBRARIAN_REQUEST_RETRIEVE_SUCCESS, True)
+                data = create_response_dict(serializer.data, LIBRARIAN_REQUEST_UPDATE_SUCCESS, True)
                 return Response(data, status=status.HTTP_200_OK)
             else:
-                data = create_response_dict('', LIBRARIAN_REQUEST_RETRIEVE_FAIL, False)
+                data = create_response_dict('', LIBRARIAN_REQUEST_UPDATE_FAIL, False)
                 return Response(data, status=status.HTTP_400_BAD_REQUEST)
         except Exception as e:
-            data = create_response_dict(str(e), LIBRARIAN_REQUEST_RETRIEVE_FAIL, False)
+            data = create_response_dict(str(e), LIBRARIAN_REQUEST_UPDATE_FAIL, False)
             return Response(data, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
