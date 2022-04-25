@@ -1,3 +1,6 @@
+SIGNUP_SUCCESS = "Sign up successful"
+SIGNUP_FAIL = "Sign up failed"
+
 LOGIN_SUCCESS = "Login successful"
 LOGIN_INVALID_CREDENTIALS = "Invalid Log In credentials"
 LOGIN_FAIL = "Login failed"
