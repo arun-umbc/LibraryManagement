@@ -53,7 +53,8 @@ STUDY_LEVEL = Konstants(
 REQUEST_STATUS = Konstants(
     K(pending='PENDING', label='Pending'),
     K(approved='APPROVED', label='Approved'),
-    K(rejected='REJECTED', label='Rejected')
+    K(rejected='REJECTED', label='Rejected'),
+    K(rejected='CANCELLED', label='Cancelled')
     )
 
 
