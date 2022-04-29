@@ -76,29 +76,29 @@ WSGI_APPLICATION = 'library_management.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#         'NAME': 'library_db',
-#         'USER': 'library_db_user',
-#         'PASSWORD': '_vftqd352kL@',
-#         'HOST': 'localhost',
-#         'PORT': '5432',
-#         'CONN_MAX_AGE': 60
-#     }
-# }
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'postgres',
+        'NAME': 'library_db',
         'USER': 'library_db_user',
-        'PASSWORD': 'SSkevFjKNVEiY0uFkDqc',
-        'HOST': 'librarydb.cpst3nie0uh3.us-east-1.rds.amazonaws.com',
+        'PASSWORD': '_vftqd352kL@',
+        'HOST': 'localhost',
         'PORT': '5432',
         'CONN_MAX_AGE': 60
     }
 }
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#         'NAME': 'postgres',
+#         'USER': 'library_db_user',
+#         'PASSWORD': 'SSkevFjKNVEiY0uFkDqc',
+#         'HOST': 'librarydb.cpst3nie0uh3.us-east-1.rds.amazonaws.com',
+#         'PORT': '5432',
+#         'CONN_MAX_AGE': 60
+#     }
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators

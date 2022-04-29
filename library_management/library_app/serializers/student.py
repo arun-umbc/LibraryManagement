@@ -1,7 +1,7 @@
 from rest_framework import serializers
 
 from library_app.models import Book, User, Request
-from utilities.constants import REQUEST_STATUS, REQUEST_FOR
+from utilities.constants import REQUEST_STATUS
 from utilities.helper import create_db_id
 
 

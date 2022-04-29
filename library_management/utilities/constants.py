@@ -25,6 +25,7 @@ class Konstants:
 
 TRUE_VALUES = [True, 'TRUE', 'true', 'True', 1, '1']
 FALSE_VALUES = [False, 'FALSE', 'false', 'False', 0, '0']
+RETURN_RANGE = 15
 
 
 ROLE_TYPES = Konstants(

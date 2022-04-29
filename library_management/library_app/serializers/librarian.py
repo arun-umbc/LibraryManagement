@@ -1,7 +1,10 @@
+from datetime import datetime, timedelta
+
 from rest_framework import serializers
 
-from library_app.models import Book, Request
-from utilities.constants import REQUEST_STATUS, REQUEST_FOR
+from library_app.models import Book, Request, Reserve
+from utilities.constants import REQUEST_STATUS, REQUEST_FOR, RETURN_RANGE, RESERVE_STATUS
+from utilities.helper import create_db_id
 
 
 class BookListSerializer(serializers.ModelSerializer):
@@ -45,6 +48,7 @@ class RequestUpdateSerializer(serializers.ModelSerializer):
 
     def update(self, instance, validated_data):
         request_status = validated_data['request_status']
+        is_rented = True
         if request_status == REQUEST_STATUS.approved:
             request_for = instance.request_for
             if request_for == REQUEST_FOR.rent:
@@ -56,6 +60,7 @@ class RequestUpdateSerializer(serializers.ModelSerializer):
                 else:
                     raise serializers.ValidationError('Check book supplies')
             else:
+                is_rented = False
                 copies_available_sale = instance.book.copies_available_sale
                 if copies_available_sale > 0:
                     updated_copies = copies_available_sale - 1
@@ -63,6 +68,17 @@ class RequestUpdateSerializer(serializers.ModelSerializer):
                     instance.book.save()
                 else:
                     raise serializers.ValidationError('Check book supplies')
+            reserve = Reserve()
+            reserve.reserve_id = create_db_id()
+            reserve.request = instance
+            if is_rented:
+                reserve.rented_date = datetime.utcnow()
+                reserve.return_date = reserve.rented_date + timedelta(days=RETURN_RANGE)
+                reserve.reserve_status = RESERVE_STATUS.open
+            else:
+                reserve.purchase_date = datetime.utcnow()
+                reserve.reserve_status = RESERVE_STATUS.close
+            reserve.save()
         instance.request_status = request_status
         instance.save()
         return instance
