@@ -86,3 +86,21 @@ class RequestUpdateSerializer(serializers.ModelSerializer):
     class Meta:
         model = Request
         fields = ('request_status', )
+
+
+class ReserveListSerializer(serializers.ModelSerializer):
+    student = serializers.CharField(source='request.user.user_id')
+
+    class Meta:
+        model = Reserve
+        fields = ('reserve_id', 'reserve_status', 'student')
+
+
+class ReserveRetrieveSerializer(serializers.ModelSerializer):
+    book = serializers.CharField(source='request.book.name')
+    student = serializers.CharField(source='request.user.user_id')
+    request_for = serializers.CharField(source='request.request_for')
+
+    class Meta:
+        model = Reserve
+        exclude = ('created_at', 'updated_at', 'request')

@@ -34,3 +34,9 @@ STUDENT_REQUEST_CREATE_SUCCESS = 'Request create successful'
 STUDENT_REQUEST_CREATE_FAIL = 'Request create failed'
 STUDENT_REQUEST_DELETE_SUCCESS = 'Request delete successful'
 STUDENT_REQUEST_DELETE_FAIL = 'Request delete failed'
+
+
+LIBRARIAN_RESERVE_FETCH_SUCCESS = 'Reserve fetch successful'
+LIBRARIAN_RESERVE_FETCH_FAIL = 'Reserve fetch failed'
+LIBRARIAN_RESERVE_RETRIEVE_SUCCESS = 'Reserve retrieve successful'
+LIBRARIAN_RESERVE_RETRIEVE_FAIL = 'Reserve retrieve failed'
