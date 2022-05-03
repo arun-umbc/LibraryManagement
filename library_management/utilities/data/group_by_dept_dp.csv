@@ -1,0 +1,1679 @@
+,book_name,department,read_count,dp_read_count
+0,20000 Leagues Under the Sea,COMPUTER_SCIENCE,14,14
+1,20000 Leagues Under the Sea,DANCE,9,9
+2,20000 Leagues Under the Sea,ECONOMICS,5,4
+3,20000 Leagues Under the Sea,ENGLISH,10,10
+4,20000 Leagues Under the Sea,MATHEMATICS,6,5
+5,20000 Leagues Under the Sea,POLITICAL_SCIENCE,7,7
+6,20000 Leagues Under the Sea,PSYCHOLOGY,5,5
+7,20000 Leagues Under the Sea,STATISTICS,7,8
+8,"Age of Discontuinity, The",COMPUTER_SCIENCE,6,5
+9,"Age of Discontuinity, The",DANCE,7,7
+10,"Age of Discontuinity, The",ECONOMICS,5,5
+11,"Age of Discontuinity, The",ENGLISH,6,5
+12,"Age of Discontuinity, The",MATHEMATICS,8,10
+13,"Age of Discontuinity, The",POLITICAL_SCIENCE,10,9
+14,"Age of Discontuinity, The",PSYCHOLOGY,4,6
+15,"Age of Discontuinity, The",STATISTICS,1,1
+16,"Age of Wrath, The",COMPUTER_SCIENCE,4,5
+17,"Age of Wrath, The",DANCE,8,5
+18,"Age of Wrath, The",ECONOMICS,5,5
+19,"Age of Wrath, The",ENGLISH,4,4
+20,"Age of Wrath, The",MATHEMATICS,6,9
+21,"Age of Wrath, The",POLITICAL_SCIENCE,4,6
+22,"Age of Wrath, The",PSYCHOLOGY,4,5
+23,"Age of Wrath, The",STATISTICS,8,7
+24,"Age of the Warrior, The",COMPUTER_SCIENCE,17,17
+25,"Age of the Warrior, The",DANCE,8,8
+26,"Age of the Warrior, The",ECONOMICS,1,1
+27,"Age of the Warrior, The",ENGLISH,9,10
+28,"Age of the Warrior, The",MATHEMATICS,9,10
+29,"Age of the Warrior, The",POLITICAL_SCIENCE,4,5
+30,"Age of the Warrior, The",PSYCHOLOGY,6,7
+31,"Age of the Warrior, The",STATISTICS,5,7
+32,Aghal Paghal,COMPUTER_SCIENCE,6,6
+33,Aghal Paghal,DANCE,8,7
+34,Aghal Paghal,ECONOMICS,13,12
+35,Aghal Paghal,ENGLISH,6,5
+36,Aghal Paghal,MATHEMATICS,4,7
+37,Aghal Paghal,POLITICAL_SCIENCE,3,3
+38,Aghal Paghal,PSYCHOLOGY,5,6
+39,Aghal Paghal,STATISTICS,10,9
+40,Ahe Manohar Tari,COMPUTER_SCIENCE,4,3
+41,Ahe Manohar Tari,DANCE,3,4
+42,Ahe Manohar Tari,ECONOMICS,7,8
+43,Ahe Manohar Tari,ENGLISH,5,6
+44,Ahe Manohar Tari,MATHEMATICS,2,4
+45,Ahe Manohar Tari,POLITICAL_SCIENCE,8,9
+46,Ahe Manohar Tari,PSYCHOLOGY,6,6
+47,Ahe Manohar Tari,STATISTICS,2,3
+48,All the President's Men,COMPUTER_SCIENCE,7,5
+49,All the President's Men,DANCE,4,4
+50,All the President's Men,ECONOMICS,7,8
+51,All the President's Men,ENGLISH,6,6
+52,All the President's Men,MATHEMATICS,3,2
+53,All the President's Men,POLITICAL_SCIENCE,5,8
+54,All the President's Men,PSYCHOLOGY,7,8
+55,All the President's Men,STATISTICS,5,4
+56,"Amulet of Samarkand, The",COMPUTER_SCIENCE,5,5
+57,"Amulet of Samarkand, The",DANCE,4,4
+58,"Amulet of Samarkand, The",ECONOMICS,6,6
+59,"Amulet of Samarkand, The",ENGLISH,11,10
+60,"Amulet of Samarkand, The",MATHEMATICS,6,6
+61,"Amulet of Samarkand, The",POLITICAL_SCIENCE,7,7
+62,"Amulet of Samarkand, The",PSYCHOLOGY,6,6
+63,"Amulet of Samarkand, The",STATISTICS,9,10
+64,"Analysis, Vol I",COMPUTER_SCIENCE,4,6
+65,"Analysis, Vol I",DANCE,7,6
+66,"Analysis, Vol I",ECONOMICS,4,2
+67,"Analysis, Vol I",ENGLISH,6,6
+68,"Analysis, Vol I",MATHEMATICS,5,4
+69,"Analysis, Vol I",POLITICAL_SCIENCE,13,11
+70,"Analysis, Vol I",PSYCHOLOGY,8,11
+71,"Analysis, Vol I",STATISTICS,4,5
+72,Angels & Demons,COMPUTER_SCIENCE,17,16
+73,Angels & Demons,DANCE,11,11
+74,Angels & Demons,ECONOMICS,6,6
+75,Angels & Demons,ENGLISH,13,13
+76,Angels & Demons,MATHEMATICS,18,16
+77,Angels & Demons,POLITICAL_SCIENCE,9,10
+78,Angels & Demons,PSYCHOLOGY,16,15
+79,Angels & Demons,STATISTICS,13,14
+80,Animal Farm,COMPUTER_SCIENCE,5,6
+81,Animal Farm,DANCE,11,11
+82,Animal Farm,ECONOMICS,1,2
+83,Animal Farm,ENGLISH,5,8
+84,Animal Farm,MATHEMATICS,7,8
+85,Animal Farm,POLITICAL_SCIENCE,6,7
+86,Animal Farm,PSYCHOLOGY,8,8
+87,Animal Farm,STATISTICS,7,7
+88,Apulki,COMPUTER_SCIENCE,8,8
+89,Apulki,DANCE,6,6
+90,Apulki,ECONOMICS,5,5
+91,Apulki,ENGLISH,6,5
+92,Apulki,MATHEMATICS,10,10
+93,Apulki,POLITICAL_SCIENCE,7,8
+94,Apulki,PSYCHOLOGY,12,7
+95,Apulki,STATISTICS,8,8
+96,"Argumentative Indian, The",COMPUTER_SCIENCE,9,10
+97,"Argumentative Indian, The",DANCE,7,7
+98,"Argumentative Indian, The",ECONOMICS,4,5
+99,"Argumentative Indian, The",ENGLISH,6,7
+100,"Argumentative Indian, The",MATHEMATICS,7,8
+101,"Argumentative Indian, The",POLITICAL_SCIENCE,10,7
+102,"Argumentative Indian, The",PSYCHOLOGY,5,4
+103,"Argumentative Indian, The",STATISTICS,7,8
+104,"Arthashastra, The",COMPUTER_SCIENCE,12,12
+105,"Arthashastra, The",DANCE,4,4
+106,"Arthashastra, The",ECONOMICS,6,6
+107,"Arthashastra, The",ENGLISH,5,5
+108,"Arthashastra, The",MATHEMATICS,10,7
+109,"Arthashastra, The",POLITICAL_SCIENCE,11,11
+110,"Arthashastra, The",PSYCHOLOGY,8,9
+111,"Arthashastra, The",STATISTICS,2,1
+112,"Artist and the Mathematician, The",COMPUTER_SCIENCE,6,6
+113,"Artist and the Mathematician, The",DANCE,7,8
+114,"Artist and the Mathematician, The",ECONOMICS,5,6
+115,"Artist and the Mathematician, The",ENGLISH,8,10
+116,"Artist and the Mathematician, The",MATHEMATICS,10,10
+117,"Artist and the Mathematician, The",POLITICAL_SCIENCE,7,7
+118,"Artist and the Mathematician, The",PSYCHOLOGY,9,12
+119,"Artist and the Mathematician, The",STATISTICS,11,12
+120,Asami Asami,COMPUTER_SCIENCE,8,8
+121,Asami Asami,DANCE,7,7
+122,Asami Asami,ECONOMICS,8,8
+123,Asami Asami,ENGLISH,8,9
+124,Asami Asami,MATHEMATICS,5,4
+125,Asami Asami,POLITICAL_SCIENCE,3,2
+126,Asami Asami,PSYCHOLOGY,6,7
+127,Asami Asami,STATISTICS,12,11
+128,Ashenden of The British Agent,COMPUTER_SCIENCE,7,7
+129,Ashenden of The British Agent,DANCE,7,7
+130,Ashenden of The British Agent,ECONOMICS,4,5
+131,Ashenden of The British Agent,ENGLISH,9,9
+132,Ashenden of The British Agent,MATHEMATICS,8,7
+133,Ashenden of The British Agent,POLITICAL_SCIENCE,5,8
+134,Ashenden of The British Agent,PSYCHOLOGY,7,7
+135,Ashenden of The British Agent,STATISTICS,7,7
+136,"Attorney, The",COMPUTER_SCIENCE,9,9
+137,"Attorney, The",DANCE,10,10
+138,"Attorney, The",ECONOMICS,4,5
+139,"Attorney, The",ENGLISH,8,9
+140,"Attorney, The",MATHEMATICS,11,11
+141,"Attorney, The",POLITICAL_SCIENCE,5,5
+142,"Attorney, The",PSYCHOLOGY,8,10
+143,"Attorney, The",STATISTICS,4,4
+144,Ayn Rand Answers,COMPUTER_SCIENCE,12,11
+145,Ayn Rand Answers,DANCE,6,4
+146,Ayn Rand Answers,ECONOMICS,4,4
+147,Ayn Rand Answers,ENGLISH,13,13
+148,Ayn Rand Answers,MATHEMATICS,2,2
+149,Ayn Rand Answers,POLITICAL_SCIENCE,11,12
+150,Ayn Rand Answers,PSYCHOLOGY,5,5
+151,Ayn Rand Answers,STATISTICS,4,3
+152,Batatyachi Chal,COMPUTER_SCIENCE,10,9
+153,Batatyachi Chal,DANCE,7,7
+154,Batatyachi Chal,ECONOMICS,4,4
+155,Batatyachi Chal,ENGLISH,10,11
+156,Batatyachi Chal,MATHEMATICS,5,5
+157,Batatyachi Chal,POLITICAL_SCIENCE,6,6
+158,Batatyachi Chal,PSYCHOLOGY,7,6
+159,Batatyachi Chal,STATISTICS,6,6
+160,Batman Earth One,COMPUTER_SCIENCE,8,9
+161,Batman Earth One,DANCE,8,8
+162,Batman Earth One,ECONOMICS,6,4
+163,Batman Earth One,ENGLISH,6,5
+164,Batman Earth One,MATHEMATICS,8,9
+165,Batman Earth One,POLITICAL_SCIENCE,7,6
+166,Batman Earth One,PSYCHOLOGY,9,10
+167,Batman Earth One,STATISTICS,5,6
+168,Batman Handbook,COMPUTER_SCIENCE,9,9
+169,Batman Handbook,DANCE,5,4
+170,Batman Handbook,ECONOMICS,6,6
+171,Batman Handbook,ENGLISH,5,5
+172,Batman Handbook,MATHEMATICS,6,5
+173,Batman Handbook,POLITICAL_SCIENCE,2,3
+174,Batman Handbook,PSYCHOLOGY,7,8
+175,Batman Handbook,STATISTICS,2,2
+176,Batman: The Long Halloween,COMPUTER_SCIENCE,8,8
+177,Batman: The Long Halloween,DANCE,9,9
+178,Batman: The Long Halloween,ECONOMICS,11,12
+179,Batman: The Long Halloween,ENGLISH,5,3
+180,Batman: The Long Halloween,MATHEMATICS,3,2
+181,Batman: The Long Halloween,POLITICAL_SCIENCE,4,5
+182,Batman: The Long Halloween,PSYCHOLOGY,10,9
+183,Batman: The Long Halloween,STATISTICS,6,8
+184,"Beautiful and the Damned, The",COMPUTER_SCIENCE,12,13
+185,"Beautiful and the Damned, The",DANCE,9,9
+186,"Beautiful and the Damned, The",ECONOMICS,2,2
+187,"Beautiful and the Damned, The",ENGLISH,6,7
+188,"Beautiful and the Damned, The",MATHEMATICS,9,8
+189,"Beautiful and the Damned, The",POLITICAL_SCIENCE,4,3
+190,"Beautiful and the Damned, The",PSYCHOLOGY,8,10
+191,"Beautiful and the Damned, The",STATISTICS,7,6
+192,Beyond Degrees,COMPUTER_SCIENCE,6,3
+193,Beyond Degrees,DANCE,4,4
+194,Beyond Degrees,ECONOMICS,2,4
+195,Beyond Degrees,ENGLISH,10,12
+196,Beyond Degrees,MATHEMATICS,6,6
+197,Beyond Degrees,POLITICAL_SCIENCE,8,7
+198,Beyond Degrees,PSYCHOLOGY,3,1
+199,Beyond Degrees,STATISTICS,6,6
+200,Beyond the Three Seas,COMPUTER_SCIENCE,9,9
+201,Beyond the Three Seas,DANCE,6,4
+202,Beyond the Three Seas,ECONOMICS,6,4
+203,Beyond the Three Seas,ENGLISH,7,6
+204,Beyond the Three Seas,MATHEMATICS,5,8
+205,Beyond the Three Seas,POLITICAL_SCIENCE,11,11
+206,Beyond the Three Seas,PSYCHOLOGY,5,5
+207,Beyond the Three Seas,STATISTICS,8,7
+208,Birth of a Theorem,COMPUTER_SCIENCE,8,5
+209,Birth of a Theorem,DANCE,9,11
+210,Birth of a Theorem,ECONOMICS,8,9
+211,Birth of a Theorem,ENGLISH,11,12
+212,Birth of a Theorem,MATHEMATICS,2,3
+213,Birth of a Theorem,POLITICAL_SCIENCE,9,9
+214,Birth of a Theorem,PSYCHOLOGY,4,4
+215,Birth of a Theorem,STATISTICS,7,6
+216,Bookless in Baghdad,COMPUTER_SCIENCE,9,9
+217,Bookless in Baghdad,DANCE,6,6
+218,Bookless in Baghdad,ECONOMICS,2,2
+219,Bookless in Baghdad,ENGLISH,6,5
+220,Bookless in Baghdad,MATHEMATICS,6,6
+221,Bookless in Baghdad,POLITICAL_SCIENCE,10,9
+222,Bookless in Baghdad,PSYCHOLOGY,4,3
+223,Bookless in Baghdad,STATISTICS,5,5
+224,"Brethren, The",COMPUTER_SCIENCE,5,6
+225,"Brethren, The",DANCE,11,11
+226,"Brethren, The",ECONOMICS,9,10
+227,"Brethren, The",ENGLISH,4,4
+228,"Brethren, The",MATHEMATICS,7,6
+229,"Brethren, The",POLITICAL_SCIENCE,11,8
+230,"Brethren, The",PSYCHOLOGY,3,3
+231,"Brethren, The",STATISTICS,5,5
+232,Broca's Brain,COMPUTER_SCIENCE,11,11
+233,Broca's Brain,DANCE,7,7
+234,Broca's Brain,ECONOMICS,3,3
+235,Broca's Brain,ENGLISH,6,5
+236,Broca's Brain,MATHEMATICS,7,7
+237,Broca's Brain,POLITICAL_SCIENCE,6,5
+238,Broca's Brain,PSYCHOLOGY,4,4
+239,Broca's Brain,STATISTICS,5,7
+240,Burning Bright,COMPUTER_SCIENCE,8,9
+241,Burning Bright,DANCE,5,5
+242,Burning Bright,ECONOMICS,2,2
+243,Burning Bright,ENGLISH,7,6
+244,Burning Bright,MATHEMATICS,6,4
+245,Burning Bright,POLITICAL_SCIENCE,5,6
+246,Burning Bright,PSYCHOLOGY,4,4
+247,Burning Bright,STATISTICS,4,4
+248,"Case of the Lame Canary, The",COMPUTER_SCIENCE,6,6
+249,"Case of the Lame Canary, The",DANCE,9,7
+250,"Case of the Lame Canary, The",ECONOMICS,5,6
+251,"Case of the Lame Canary, The",ENGLISH,4,6
+252,"Case of the Lame Canary, The",MATHEMATICS,2,2
+253,"Case of the Lame Canary, The",POLITICAL_SCIENCE,9,9
+254,"Case of the Lame Canary, The",PSYCHOLOGY,5,4
+255,"Case of the Lame Canary, The",STATISTICS,5,4
+256,Catch 22,COMPUTER_SCIENCE,12,13
+257,Catch 22,DANCE,5,5
+258,Catch 22,ECONOMICS,6,7
+259,Catch 22,ENGLISH,9,11
+260,Catch 22,MATHEMATICS,8,8
+261,Catch 22,POLITICAL_SCIENCE,2,2
+262,Catch 22,PSYCHOLOGY,7,7
+263,Catch 22,STATISTICS,2,2
+264,"Cathedral and the Bazaar, The",COMPUTER_SCIENCE,5,4
+265,"Cathedral and the Bazaar, The",DANCE,8,8
+266,"Cathedral and the Bazaar, The",ECONOMICS,7,7
+267,"Cathedral and the Bazaar, The",ENGLISH,3,2
+268,"Cathedral and the Bazaar, The",MATHEMATICS,7,7
+269,"Cathedral and the Bazaar, The",POLITICAL_SCIENCE,13,19
+270,"Cathedral and the Bazaar, The",PSYCHOLOGY,6,9
+271,"Cathedral and the Bazaar, The",STATISTICS,2,0
+272,Char Shabda,COMPUTER_SCIENCE,6,6
+273,Char Shabda,DANCE,11,12
+274,Char Shabda,ECONOMICS,11,11
+275,Char Shabda,ENGLISH,5,3
+276,Char Shabda,MATHEMATICS,8,8
+277,Char Shabda,POLITICAL_SCIENCE,4,4
+278,Char Shabda,PSYCHOLOGY,6,7
+279,Char Shabda,STATISTICS,4,5
+280,"Christmas Carol, A",COMPUTER_SCIENCE,8,9
+281,"Christmas Carol, A",DANCE,12,11
+282,"Christmas Carol, A",ECONOMICS,3,3
+283,"Christmas Carol, A",ENGLISH,7,7
+284,"Christmas Carol, A",MATHEMATICS,1,5
+285,"Christmas Carol, A",POLITICAL_SCIENCE,14,13
+286,"Christmas Carol, A",PSYCHOLOGY,6,6
+287,"Christmas Carol, A",STATISTICS,7,7
+288,City of Djinns,COMPUTER_SCIENCE,9,9
+289,City of Djinns,DANCE,8,9
+290,City of Djinns,ECONOMICS,4,3
+291,City of Djinns,ENGLISH,6,7
+292,City of Djinns,MATHEMATICS,5,8
+293,City of Djinns,POLITICAL_SCIENCE,3,5
+294,City of Djinns,PSYCHOLOGY,1,1
+295,City of Djinns,STATISTICS,5,5
+296,"City of Joy, The",COMPUTER_SCIENCE,3,3
+297,"City of Joy, The",DANCE,8,8
+298,"City of Joy, The",ECONOMICS,8,9
+299,"City of Joy, The",ENGLISH,6,6
+300,"City of Joy, The",MATHEMATICS,6,8
+301,"City of Joy, The",POLITICAL_SCIENCE,6,6
+302,"City of Joy, The",PSYCHOLOGY,9,10
+303,"City of Joy, The",STATISTICS,8,8
+304,Clash of Civilizations and Remaking of the World Order,COMPUTER_SCIENCE,5,6
+305,Clash of Civilizations and Remaking of the World Order,DANCE,7,5
+306,Clash of Civilizations and Remaking of the World Order,ECONOMICS,5,3
+307,Clash of Civilizations and Remaking of the World Order,ENGLISH,8,9
+308,Clash of Civilizations and Remaking of the World Order,MATHEMATICS,6,6
+309,Clash of Civilizations and Remaking of the World Order,POLITICAL_SCIENCE,7,8
+310,Clash of Civilizations and Remaking of the World Order,PSYCHOLOGY,4,6
+311,Clash of Civilizations and Remaking of the World Order,STATISTICS,9,8
+312,"Code Book, The",COMPUTER_SCIENCE,8,9
+313,"Code Book, The",DANCE,5,5
+314,"Code Book, The",ECONOMICS,5,5
+315,"Code Book, The",ENGLISH,4,4
+316,"Code Book, The",MATHEMATICS,8,7
+317,"Code Book, The",POLITICAL_SCIENCE,8,8
+318,"Code Book, The",PSYCHOLOGY,7,7
+319,"Code Book, The",STATISTICS,7,6
+320,"Complete Mastermind, The",COMPUTER_SCIENCE,3,3
+321,"Complete Mastermind, The",DANCE,9,9
+322,"Complete Mastermind, The",ECONOMICS,7,8
+323,"Complete Mastermind, The",ENGLISH,6,6
+324,"Complete Mastermind, The",MATHEMATICS,5,7
+325,"Complete Mastermind, The",POLITICAL_SCIENCE,3,5
+326,"Complete Mastermind, The",PSYCHOLOGY,10,12
+327,"Complete Mastermind, The",STATISTICS,4,3
+328,"Complete Sherlock Holmes, The - Vol I",COMPUTER_SCIENCE,10,10
+329,"Complete Sherlock Holmes, The - Vol I",DANCE,8,7
+330,"Complete Sherlock Holmes, The - Vol I",ECONOMICS,5,5
+331,"Complete Sherlock Holmes, The - Vol I",ENGLISH,2,2
+332,"Complete Sherlock Holmes, The - Vol I",MATHEMATICS,6,6
+333,"Complete Sherlock Holmes, The - Vol I",POLITICAL_SCIENCE,6,5
+334,"Complete Sherlock Holmes, The - Vol I",PSYCHOLOGY,11,11
+335,"Complete Sherlock Holmes, The - Vol I",STATISTICS,9,10
+336,"Complete Sherlock Holmes, The - Vol II",COMPUTER_SCIENCE,1,2
+337,"Complete Sherlock Holmes, The - Vol II",DANCE,10,8
+338,"Complete Sherlock Holmes, The - Vol II",ECONOMICS,8,7
+339,"Complete Sherlock Holmes, The - Vol II",ENGLISH,5,5
+340,"Complete Sherlock Holmes, The - Vol II",MATHEMATICS,8,7
+341,"Complete Sherlock Holmes, The - Vol II",POLITICAL_SCIENCE,7,10
+342,"Complete Sherlock Holmes, The - Vol II",PSYCHOLOGY,5,4
+343,"Complete Sherlock Holmes, The - Vol II",STATISTICS,8,7
+344,"Computer Vision, A Modern Approach",COMPUTER_SCIENCE,10,10
+345,"Computer Vision, A Modern Approach",DANCE,5,5
+346,"Computer Vision, A Modern Approach",ECONOMICS,5,8
+347,"Computer Vision, A Modern Approach",ENGLISH,1,1
+348,"Computer Vision, A Modern Approach",MATHEMATICS,3,5
+349,"Computer Vision, A Modern Approach",POLITICAL_SCIENCE,1,1
+350,"Computer Vision, A Modern Approach",PSYCHOLOGY,8,8
+351,"Computer Vision, A Modern Approach",STATISTICS,10,12
+352,"Courtroom Genius, The",COMPUTER_SCIENCE,10,10
+353,"Courtroom Genius, The",DANCE,9,8
+354,"Courtroom Genius, The",ECONOMICS,4,6
+355,"Courtroom Genius, The",ENGLISH,9,10
+356,"Courtroom Genius, The",MATHEMATICS,6,10
+357,"Courtroom Genius, The",POLITICAL_SCIENCE,7,6
+358,"Courtroom Genius, The",PSYCHOLOGY,3,5
+359,"Courtroom Genius, The",STATISTICS,6,4
+360,Crime and Punishment,COMPUTER_SCIENCE,9,8
+361,Crime and Punishment,DANCE,5,5
+362,Crime and Punishment,ECONOMICS,7,8
+363,Crime and Punishment,ENGLISH,5,5
+364,Crime and Punishment,MATHEMATICS,4,7
+365,Crime and Punishment,POLITICAL_SCIENCE,8,8
+366,Crime and Punishment,PSYCHOLOGY,7,6
+367,Crime and Punishment,STATISTICS,3,3
+368,Crisis on Infinite Earths,COMPUTER_SCIENCE,7,8
+369,Crisis on Infinite Earths,DANCE,10,9
+370,Crisis on Infinite Earths,ECONOMICS,4,5
+371,Crisis on Infinite Earths,ENGLISH,6,6
+372,Crisis on Infinite Earths,MATHEMATICS,5,4
+373,Crisis on Infinite Earths,POLITICAL_SCIENCE,10,10
+374,Crisis on Infinite Earths,PSYCHOLOGY,7,7
+375,Crisis on Infinite Earths,STATISTICS,11,10
+376,Data Analysis with Open Source Tools,COMPUTER_SCIENCE,7,7
+377,Data Analysis with Open Source Tools,DANCE,8,8
+378,Data Analysis with Open Source Tools,ECONOMICS,7,7
+379,Data Analysis with Open Source Tools,ENGLISH,5,5
+380,Data Analysis with Open Source Tools,MATHEMATICS,10,11
+381,Data Analysis with Open Source Tools,POLITICAL_SCIENCE,4,12
+382,Data Analysis with Open Source Tools,PSYCHOLOGY,4,4
+383,Data Analysis with Open Source Tools,STATISTICS,1,0
+384,Data Mining Handbook,COMPUTER_SCIENCE,6,4
+385,Data Mining Handbook,DANCE,6,5
+386,Data Mining Handbook,ECONOMICS,3,4
+387,Data Mining Handbook,ENGLISH,7,7
+388,Data Mining Handbook,MATHEMATICS,7,4
+389,Data Mining Handbook,POLITICAL_SCIENCE,10,12
+390,Data Mining Handbook,PSYCHOLOGY,5,6
+391,Data Mining Handbook,STATISTICS,9,9
+392,Data Scientists at Work,COMPUTER_SCIENCE,8,6
+393,Data Scientists at Work,DANCE,10,11
+394,Data Scientists at Work,ECONOMICS,5,2
+395,Data Scientists at Work,ENGLISH,11,12
+396,Data Scientists at Work,MATHEMATICS,5,3
+397,Data Scientists at Work,POLITICAL_SCIENCE,4,5
+398,Data Scientists at Work,PSYCHOLOGY,8,7
+399,Data Scientists at Work,STATISTICS,4,4
+400,Data Smart,COMPUTER_SCIENCE,8,8
+401,Data Smart,DANCE,8,10
+402,Data Smart,ECONOMICS,4,6
+403,Data Smart,ENGLISH,7,7
+404,Data Smart,MATHEMATICS,6,5
+405,Data Smart,POLITICAL_SCIENCE,6,6
+406,Data Smart,PSYCHOLOGY,7,7
+407,Data Smart,STATISTICS,4,3
+408,Data Structures Using C & C++,COMPUTER_SCIENCE,9,10
+409,Data Structures Using C & C++,DANCE,7,8
+410,Data Structures Using C & C++,ECONOMICS,6,7
+411,Data Structures Using C & C++,ENGLISH,5,4
+412,Data Structures Using C & C++,MATHEMATICS,6,5
+413,Data Structures Using C & C++,POLITICAL_SCIENCE,7,9
+414,Data Structures Using C & C++,PSYCHOLOGY,4,5
+415,Data Structures Using C & C++,STATISTICS,7,8
+416,"Death of Superman, The",COMPUTER_SCIENCE,14,14
+417,"Death of Superman, The",DANCE,6,5
+418,"Death of Superman, The",ECONOMICS,3,4
+419,"Death of Superman, The",ENGLISH,5,4
+420,"Death of Superman, The",MATHEMATICS,13,14
+421,"Death of Superman, The",POLITICAL_SCIENCE,4,7
+422,"Death of Superman, The",PSYCHOLOGY,4,4
+423,"Death of Superman, The",STATISTICS,6,6
+424,"Deceiver, The",COMPUTER_SCIENCE,7,6
+425,"Deceiver, The",DANCE,8,5
+426,"Deceiver, The",ECONOMICS,5,5
+427,"Deceiver, The",ENGLISH,10,10
+428,"Deceiver, The",MATHEMATICS,8,9
+429,"Deceiver, The",POLITICAL_SCIENCE,5,7
+430,"Deceiver, The",PSYCHOLOGY,7,7
+431,"Deceiver, The",STATISTICS,6,5
+432,Design with OpAmps,COMPUTER_SCIENCE,6,5
+433,Design with OpAmps,DANCE,11,10
+434,Design with OpAmps,ECONOMICS,6,7
+435,Design with OpAmps,ENGLISH,8,8
+436,Design with OpAmps,MATHEMATICS,5,5
+437,Design with OpAmps,POLITICAL_SCIENCE,10,10
+438,Design with OpAmps,PSYCHOLOGY,9,8
+439,Design with OpAmps,STATISTICS,5,8
+440,"Devil's Advocate, The",COMPUTER_SCIENCE,7,7
+441,"Devil's Advocate, The",DANCE,9,7
+442,"Devil's Advocate, The",ECONOMICS,6,7
+443,"Devil's Advocate, The",ENGLISH,6,6
+444,"Devil's Advocate, The",MATHEMATICS,2,1
+445,"Devil's Advocate, The",POLITICAL_SCIENCE,3,4
+446,"Devil's Advocate, The",PSYCHOLOGY,8,8
+447,"Devil's Advocate, The",STATISTICS,12,11
+448,"Discovery of India, The",COMPUTER_SCIENCE,9,8
+449,"Discovery of India, The",DANCE,5,4
+450,"Discovery of India, The",ECONOMICS,6,5
+451,"Discovery of India, The",ENGLISH,12,14
+452,"Discovery of India, The",MATHEMATICS,8,8
+453,"Discovery of India, The",POLITICAL_SCIENCE,6,6
+454,"Discovery of India, The",PSYCHOLOGY,4,6
+455,"Discovery of India, The",STATISTICS,7,8
+456,Doctor in the Nude,COMPUTER_SCIENCE,5,5
+457,Doctor in the Nude,DANCE,9,8
+458,Doctor in the Nude,ECONOMICS,6,5
+459,Doctor in the Nude,ENGLISH,7,7
+460,Doctor in the Nude,MATHEMATICS,2,3
+461,Doctor in the Nude,POLITICAL_SCIENCE,6,6
+462,Doctor in the Nude,PSYCHOLOGY,1,-4
+463,Doctor in the Nude,STATISTICS,11,11
+464,Doctor on the Brain,COMPUTER_SCIENCE,7,4
+465,Doctor on the Brain,DANCE,8,8
+466,Doctor on the Brain,ECONOMICS,7,7
+467,Doctor on the Brain,ENGLISH,3,3
+468,Doctor on the Brain,MATHEMATICS,13,12
+469,Doctor on the Brain,POLITICAL_SCIENCE,9,9
+470,Doctor on the Brain,PSYCHOLOGY,5,7
+471,Doctor on the Brain,STATISTICS,7,10
+472,Dongri to Dubai,COMPUTER_SCIENCE,3,5
+473,Dongri to Dubai,DANCE,4,4
+474,Dongri to Dubai,ECONOMICS,8,7
+475,Dongri to Dubai,ENGLISH,13,12
+476,Dongri to Dubai,MATHEMATICS,6,5
+477,Dongri to Dubai,POLITICAL_SCIENCE,2,2
+478,Dongri to Dubai,PSYCHOLOGY,3,2
+479,Dongri to Dubai,STATISTICS,7,6
+480,Down and Out in Paris & London,COMPUTER_SCIENCE,10,10
+481,Down and Out in Paris & London,DANCE,7,5
+482,Down and Out in Paris & London,ECONOMICS,7,6
+483,Down and Out in Paris & London,ENGLISH,10,9
+484,Down and Out in Paris & London,MATHEMATICS,9,9
+485,Down and Out in Paris & London,POLITICAL_SCIENCE,9,9
+486,Down and Out in Paris & London,PSYCHOLOGY,10,11
+487,Down and Out in Paris & London,STATISTICS,8,7
+488,"Drunkard's Walk, The",COMPUTER_SCIENCE,10,11
+489,"Drunkard's Walk, The",DANCE,8,7
+490,"Drunkard's Walk, The",ECONOMICS,7,6
+491,"Drunkard's Walk, The",ENGLISH,12,13
+492,"Drunkard's Walk, The",MATHEMATICS,3,5
+493,"Drunkard's Walk, The",POLITICAL_SCIENCE,5,6
+494,"Drunkard's Walk, The",PSYCHOLOGY,5,4
+495,"Drunkard's Walk, The",STATISTICS,7,7
+496,Dylan on Dylan,COMPUTER_SCIENCE,9,9
+497,Dylan on Dylan,DANCE,10,12
+498,Dylan on Dylan,ECONOMICS,7,7
+499,Dylan on Dylan,ENGLISH,8,8
+500,Dylan on Dylan,MATHEMATICS,3,3
+501,Dylan on Dylan,POLITICAL_SCIENCE,9,9
+502,Dylan on Dylan,PSYCHOLOGY,10,11
+503,Dylan on Dylan,STATISTICS,3,3
+504,Econometric Analysis,COMPUTER_SCIENCE,8,9
+505,Econometric Analysis,DANCE,5,7
+506,Econometric Analysis,ECONOMICS,5,5
+507,Econometric Analysis,ENGLISH,10,9
+508,Econometric Analysis,MATHEMATICS,3,2
+509,Econometric Analysis,POLITICAL_SCIENCE,7,8
+510,Econometric Analysis,PSYCHOLOGY,6,5
+511,Econometric Analysis,STATISTICS,9,10
+512,Electric Universe,COMPUTER_SCIENCE,5,4
+513,Electric Universe,DANCE,9,9
+514,Electric Universe,ECONOMICS,4,4
+515,Electric Universe,ENGLISH,4,4
+516,Electric Universe,MATHEMATICS,4,4
+517,Electric Universe,POLITICAL_SCIENCE,5,5
+518,Electric Universe,PSYCHOLOGY,6,7
+519,Electric Universe,STATISTICS,4,5
+520,Elements of Information Theory,COMPUTER_SCIENCE,7,6
+521,Elements of Information Theory,DANCE,12,11
+522,Elements of Information Theory,ECONOMICS,8,8
+523,Elements of Information Theory,ENGLISH,4,4
+524,Elements of Information Theory,MATHEMATICS,10,9
+525,Elements of Information Theory,POLITICAL_SCIENCE,10,11
+526,Elements of Information Theory,PSYCHOLOGY,3,2
+527,Elements of Information Theory,STATISTICS,9,7
+528,Empire of the Mughal - Brothers at War,COMPUTER_SCIENCE,4,4
+529,Empire of the Mughal - Brothers at War,DANCE,5,5
+530,Empire of the Mughal - Brothers at War,ECONOMICS,5,6
+531,Empire of the Mughal - Brothers at War,ENGLISH,9,9
+532,Empire of the Mughal - Brothers at War,MATHEMATICS,9,9
+533,Empire of the Mughal - Brothers at War,POLITICAL_SCIENCE,7,7
+534,Empire of the Mughal - Brothers at War,PSYCHOLOGY,10,10
+535,Empire of the Mughal - Brothers at War,STATISTICS,4,2
+536,Empire of the Mughal - Raiders from the North,COMPUTER_SCIENCE,8,8
+537,Empire of the Mughal - Raiders from the North,DANCE,8,9
+538,Empire of the Mughal - Raiders from the North,ECONOMICS,4,5
+539,Empire of the Mughal - Raiders from the North,ENGLISH,10,9
+540,Empire of the Mughal - Raiders from the North,MATHEMATICS,5,3
+541,Empire of the Mughal - Raiders from the North,POLITICAL_SCIENCE,9,10
+542,Empire of the Mughal - Raiders from the North,PSYCHOLOGY,6,4
+543,Empire of the Mughal - Raiders from the North,STATISTICS,7,6
+544,Empire of the Mughal - Ruler of the World,COMPUTER_SCIENCE,8,9
+545,Empire of the Mughal - Ruler of the World,DANCE,4,6
+546,Empire of the Mughal - Ruler of the World,ECONOMICS,5,4
+547,Empire of the Mughal - Ruler of the World,ENGLISH,6,3
+548,Empire of the Mughal - Ruler of the World,MATHEMATICS,4,2
+549,Empire of the Mughal - Ruler of the World,POLITICAL_SCIENCE,8,8
+550,Empire of the Mughal - Ruler of the World,PSYCHOLOGY,10,10
+551,Empire of the Mughal - Ruler of the World,STATISTICS,7,5
+552,Empire of the Mughal - The Serpent's Tooth,COMPUTER_SCIENCE,7,6
+553,Empire of the Mughal - The Serpent's Tooth,DANCE,5,5
+554,Empire of the Mughal - The Serpent's Tooth,ECONOMICS,1,1
+555,Empire of the Mughal - The Serpent's Tooth,ENGLISH,7,5
+556,Empire of the Mughal - The Serpent's Tooth,MATHEMATICS,4,4
+557,Empire of the Mughal - The Serpent's Tooth,POLITICAL_SCIENCE,9,11
+558,Empire of the Mughal - The Serpent's Tooth,PSYCHOLOGY,5,5
+559,Empire of the Mughal - The Serpent's Tooth,STATISTICS,8,7
+560,Empire of the Mughal - The Tainted Throne,COMPUTER_SCIENCE,3,3
+561,Empire of the Mughal - The Tainted Throne,DANCE,8,8
+562,Empire of the Mughal - The Tainted Throne,ECONOMICS,4,4
+563,Empire of the Mughal - The Tainted Throne,ENGLISH,10,8
+564,Empire of the Mughal - The Tainted Throne,MATHEMATICS,10,11
+565,Empire of the Mughal - The Tainted Throne,POLITICAL_SCIENCE,6,7
+566,Empire of the Mughal - The Tainted Throne,PSYCHOLOGY,4,3
+567,Empire of the Mughal - The Tainted Throne,STATISTICS,7,6
+568,Eyeless in Gaza,COMPUTER_SCIENCE,6,7
+569,Eyeless in Gaza,DANCE,13,16
+570,Eyeless in Gaza,ECONOMICS,7,6
+571,Eyeless in Gaza,ENGLISH,3,3
+572,Eyeless in Gaza,MATHEMATICS,7,7
+573,Eyeless in Gaza,POLITICAL_SCIENCE,7,7
+574,Eyeless in Gaza,PSYCHOLOGY,7,8
+575,Eyeless in Gaza,STATISTICS,3,2
+576,False Impressions,COMPUTER_SCIENCE,7,4
+577,False Impressions,DANCE,8,8
+578,False Impressions,ECONOMICS,5,5
+579,False Impressions,ENGLISH,2,3
+580,False Impressions,MATHEMATICS,6,7
+581,False Impressions,POLITICAL_SCIENCE,7,7
+582,False Impressions,PSYCHOLOGY,6,6
+583,False Impressions,STATISTICS,5,5
+584,"Farewell to Arms, A",COMPUTER_SCIENCE,6,7
+585,"Farewell to Arms, A",DANCE,11,11
+586,"Farewell to Arms, A",ECONOMICS,9,9
+587,"Farewell to Arms, A",ENGLISH,9,9
+588,"Farewell to Arms, A",MATHEMATICS,8,8
+589,"Farewell to Arms, A",POLITICAL_SCIENCE,10,10
+590,"Farewell to Arms, A",PSYCHOLOGY,3,5
+591,"Farewell to Arms, A",STATISTICS,7,6
+592,Final Crisis,COMPUTER_SCIENCE,6,6
+593,Final Crisis,DANCE,3,3
+594,Final Crisis,ECONOMICS,8,12
+595,Final Crisis,ENGLISH,9,10
+596,Final Crisis,MATHEMATICS,5,5
+597,Final Crisis,POLITICAL_SCIENCE,6,5
+598,Final Crisis,PSYCHOLOGY,6,6
+599,Final Crisis,STATISTICS,5,5
+600,Flashpoint,COMPUTER_SCIENCE,6,5
+601,Flashpoint,DANCE,3,3
+602,Flashpoint,ECONOMICS,7,7
+603,Flashpoint,ENGLISH,7,7
+604,Flashpoint,MATHEMATICS,4,4
+605,Flashpoint,POLITICAL_SCIENCE,7,8
+606,Flashpoint,PSYCHOLOGY,6,5
+607,Flashpoint,STATISTICS,2,0
+608,Freakonomics,COMPUTER_SCIENCE,5,5
+609,Freakonomics,DANCE,9,7
+610,Freakonomics,ECONOMICS,8,8
+611,Freakonomics,ENGLISH,11,13
+612,Freakonomics,MATHEMATICS,4,5
+613,Freakonomics,POLITICAL_SCIENCE,5,5
+614,Freakonomics,PSYCHOLOGY,3,3
+615,Freakonomics,STATISTICS,6,6
+616,Free Will,COMPUTER_SCIENCE,8,5
+617,Free Will,DANCE,11,11
+618,Free Will,ECONOMICS,2,1
+619,Free Will,ENGLISH,11,12
+620,Free Will,MATHEMATICS,5,3
+621,Free Will,POLITICAL_SCIENCE,9,10
+622,Free Will,PSYCHOLOGY,8,5
+623,Free Will,STATISTICS,5,5
+624,Freedom at Midnight,COMPUTER_SCIENCE,10,9
+625,Freedom at Midnight,DANCE,6,7
+626,Freedom at Midnight,ECONOMICS,4,6
+627,Freedom at Midnight,ENGLISH,2,3
+628,Freedom at Midnight,MATHEMATICS,8,7
+629,Freedom at Midnight,POLITICAL_SCIENCE,10,11
+630,Freedom at Midnight,PSYCHOLOGY,7,6
+631,Freedom at Midnight,STATISTICS,6,5
+632,From Beirut to Jerusalem,COMPUTER_SCIENCE,5,5
+633,From Beirut to Jerusalem,DANCE,11,11
+634,From Beirut to Jerusalem,ECONOMICS,6,8
+635,From Beirut to Jerusalem,ENGLISH,8,9
+636,From Beirut to Jerusalem,MATHEMATICS,11,10
+637,From Beirut to Jerusalem,POLITICAL_SCIENCE,5,6
+638,From Beirut to Jerusalem,PSYCHOLOGY,7,7
+639,From Beirut to Jerusalem,STATISTICS,4,4
+640,Fundamentals of Wavelets,COMPUTER_SCIENCE,4,2
+641,Fundamentals of Wavelets,DANCE,5,4
+642,Fundamentals of Wavelets,ECONOMICS,4,2
+643,Fundamentals of Wavelets,ENGLISH,5,5
+644,Fundamentals of Wavelets,MATHEMATICS,5,5
+645,Fundamentals of Wavelets,POLITICAL_SCIENCE,2,6
+646,Fundamentals of Wavelets,PSYCHOLOGY,9,11
+647,Fundamentals of Wavelets,STATISTICS,5,6
+648,Girl who kicked the Hornet's Nest,COMPUTER_SCIENCE,8,8
+649,Girl who kicked the Hornet's Nest,DANCE,7,7
+650,Girl who kicked the Hornet's Nest,ECONOMICS,9,10
+651,Girl who kicked the Hornet's Nest,ENGLISH,4,3
+652,Girl who kicked the Hornet's Nest,MATHEMATICS,8,8
+653,Girl who kicked the Hornet's Nest,POLITICAL_SCIENCE,4,2
+654,Girl who kicked the Hornet's Nest,PSYCHOLOGY,5,4
+655,Girl who kicked the Hornet's Nest,STATISTICS,9,9
+656,Girl who played with Fire,COMPUTER_SCIENCE,12,11
+657,Girl who played with Fire,DANCE,7,7
+658,Girl who played with Fire,ECONOMICS,5,7
+659,Girl who played with Fire,ENGLISH,8,11
+660,Girl who played with Fire,MATHEMATICS,5,6
+661,Girl who played with Fire,POLITICAL_SCIENCE,7,8
+662,Girl who played with Fire,PSYCHOLOGY,5,5
+663,Girl who played with Fire,STATISTICS,12,11
+664,Girl with the Dragon Tattoo,COMPUTER_SCIENCE,10,9
+665,Girl with the Dragon Tattoo,DANCE,5,5
+666,Girl with the Dragon Tattoo,ECONOMICS,7,9
+667,Girl with the Dragon Tattoo,ENGLISH,5,5
+668,Girl with the Dragon Tattoo,MATHEMATICS,9,8
+669,Girl with the Dragon Tattoo,POLITICAL_SCIENCE,8,8
+670,Girl with the Dragon Tattoo,PSYCHOLOGY,9,6
+671,Girl with the Dragon Tattoo,STATISTICS,6,9
+672,God Created the Integers,COMPUTER_SCIENCE,7,7
+673,God Created the Integers,DANCE,11,12
+674,God Created the Integers,ECONOMICS,6,7
+675,God Created the Integers,ENGLISH,8,10
+676,God Created the Integers,MATHEMATICS,9,6
+677,God Created the Integers,POLITICAL_SCIENCE,4,5
+678,God Created the Integers,PSYCHOLOGY,5,4
+679,God Created the Integers,STATISTICS,8,8
+680,"Grapes of Wrath, The",COMPUTER_SCIENCE,7,8
+681,"Grapes of Wrath, The",DANCE,9,10
+682,"Grapes of Wrath, The",ECONOMICS,9,10
+683,"Grapes of Wrath, The",ENGLISH,5,5
+684,"Grapes of Wrath, The",MATHEMATICS,7,6
+685,"Grapes of Wrath, The",POLITICAL_SCIENCE,7,7
+686,"Grapes of Wrath, The",PSYCHOLOGY,6,6
+687,"Grapes of Wrath, The",STATISTICS,8,8
+688,"Great Indian Novel, The",COMPUTER_SCIENCE,5,3
+689,"Great Indian Novel, The",DANCE,5,5
+690,"Great Indian Novel, The",ECONOMICS,4,4
+691,"Great Indian Novel, The",ENGLISH,10,10
+692,"Great Indian Novel, The",MATHEMATICS,10,8
+693,"Great Indian Novel, The",POLITICAL_SCIENCE,7,6
+694,"Great Indian Novel, The",PSYCHOLOGY,5,4
+695,"Great Indian Novel, The",STATISTICS,3,3
+696,"Great War for Civilization, The",COMPUTER_SCIENCE,11,11
+697,"Great War for Civilization, The",DANCE,11,11
+698,"Great War for Civilization, The",ECONOMICS,6,6
+699,"Great War for Civilization, The",ENGLISH,3,5
+700,"Great War for Civilization, The",MATHEMATICS,7,10
+701,"Great War for Civilization, The",POLITICAL_SCIENCE,8,10
+702,"Great War for Civilization, The",PSYCHOLOGY,6,7
+703,"Great War for Civilization, The",STATISTICS,8,9
+704,Gun Gayin Awadi,COMPUTER_SCIENCE,3,5
+705,Gun Gayin Awadi,DANCE,9,9
+706,Gun Gayin Awadi,ECONOMICS,5,6
+707,Gun Gayin Awadi,ENGLISH,8,9
+708,Gun Gayin Awadi,MATHEMATICS,6,5
+709,Gun Gayin Awadi,POLITICAL_SCIENCE,5,5
+710,Gun Gayin Awadi,PSYCHOLOGY,3,3
+711,Gun Gayin Awadi,STATISTICS,4,4
+712,Hafasavnuk,COMPUTER_SCIENCE,9,8
+713,Hafasavnuk,DANCE,7,10
+714,Hafasavnuk,ECONOMICS,9,6
+715,Hafasavnuk,ENGLISH,9,7
+716,Hafasavnuk,MATHEMATICS,2,3
+717,Hafasavnuk,POLITICAL_SCIENCE,7,6
+718,Hafasavnuk,PSYCHOLOGY,3,3
+719,Hafasavnuk,STATISTICS,5,4
+720,Half A Life,COMPUTER_SCIENCE,6,6
+721,Half A Life,DANCE,3,4
+722,Half A Life,ECONOMICS,3,4
+723,Half A Life,ENGLISH,7,7
+724,Half A Life,MATHEMATICS,3,3
+725,Half A Life,POLITICAL_SCIENCE,7,6
+726,Half A Life,PSYCHOLOGY,5,6
+727,Half A Life,STATISTICS,11,10
+728,"Hidden Connections, The",COMPUTER_SCIENCE,6,6
+729,"Hidden Connections, The",DANCE,14,13
+730,"Hidden Connections, The",ECONOMICS,3,3
+731,"Hidden Connections, The",ENGLISH,2,1
+732,"Hidden Connections, The",MATHEMATICS,4,4
+733,"Hidden Connections, The",POLITICAL_SCIENCE,7,8
+734,"Hidden Connections, The",PSYCHOLOGY,6,7
+735,"Hidden Connections, The",STATISTICS,5,5
+736,"History of England, Foundation",COMPUTER_SCIENCE,8,9
+737,"History of England, Foundation",DANCE,8,11
+738,"History of England, Foundation",ECONOMICS,6,8
+739,"History of England, Foundation",ENGLISH,4,6
+740,"History of England, Foundation",MATHEMATICS,4,4
+741,"History of England, Foundation",POLITICAL_SCIENCE,8,5
+742,"History of England, Foundation",PSYCHOLOGY,8,7
+743,"History of England, Foundation",STATISTICS,7,7
+744,History of Western Philosophy,COMPUTER_SCIENCE,5,5
+745,History of Western Philosophy,DANCE,4,3
+746,History of Western Philosophy,ECONOMICS,8,8
+747,History of Western Philosophy,ENGLISH,7,8
+748,History of Western Philosophy,MATHEMATICS,10,11
+749,History of Western Philosophy,POLITICAL_SCIENCE,6,1
+750,History of Western Philosophy,PSYCHOLOGY,2,3
+751,History of Western Philosophy,STATISTICS,4,4
+752,History of the DC Universe,COMPUTER_SCIENCE,9,8
+753,History of the DC Universe,DANCE,8,8
+754,History of the DC Universe,ECONOMICS,6,4
+755,History of the DC Universe,ENGLISH,4,4
+756,History of the DC Universe,MATHEMATICS,6,5
+757,History of the DC Universe,POLITICAL_SCIENCE,7,8
+758,History of the DC Universe,PSYCHOLOGY,6,5
+759,History of the DC Universe,STATISTICS,7,8
+760,How to Think Like Sherlock Holmes,COMPUTER_SCIENCE,7,7
+761,How to Think Like Sherlock Holmes,DANCE,4,5
+762,How to Think Like Sherlock Holmes,ECONOMICS,3,2
+763,How to Think Like Sherlock Holmes,ENGLISH,14,14
+764,How to Think Like Sherlock Holmes,MATHEMATICS,10,11
+765,How to Think Like Sherlock Holmes,POLITICAL_SCIENCE,5,4
+766,How to Think Like Sherlock Holmes,PSYCHOLOGY,4,4
+767,How to Think Like Sherlock Holmes,STATISTICS,3,4
+768,"Hunchback of Notre Dame, The",COMPUTER_SCIENCE,7,5
+769,"Hunchback of Notre Dame, The",DANCE,8,8
+770,"Hunchback of Notre Dame, The",ECONOMICS,5,5
+771,"Hunchback of Notre Dame, The",ENGLISH,8,9
+772,"Hunchback of Notre Dame, The",MATHEMATICS,11,9
+773,"Hunchback of Notre Dame, The",POLITICAL_SCIENCE,8,9
+774,"Hunchback of Notre Dame, The",PSYCHOLOGY,1,2
+775,"Hunchback of Notre Dame, The",STATISTICS,8,8
+776,"Idea of Justice, The",COMPUTER_SCIENCE,9,8
+777,"Idea of Justice, The",DANCE,9,7
+778,"Idea of Justice, The",ECONOMICS,10,10
+779,"Idea of Justice, The",ENGLISH,9,8
+780,"Idea of Justice, The",MATHEMATICS,15,17
+781,"Idea of Justice, The",POLITICAL_SCIENCE,5,2
+782,"Idea of Justice, The",PSYCHOLOGY,3,4
+783,"Idea of Justice, The",STATISTICS,9,10
+784,Identity & Violence,COMPUTER_SCIENCE,11,12
+785,Identity & Violence,DANCE,2,1
+786,Identity & Violence,ECONOMICS,3,4
+787,Identity & Violence,ENGLISH,10,10
+788,Identity & Violence,MATHEMATICS,5,8
+789,Identity & Violence,POLITICAL_SCIENCE,5,3
+790,Identity & Violence,PSYCHOLOGY,9,8
+791,Identity & Violence,STATISTICS,8,8
+792,"Idiot, The",COMPUTER_SCIENCE,6,6
+793,"Idiot, The",DANCE,2,1
+794,"Idiot, The",ECONOMICS,8,8
+795,"Idiot, The",ENGLISH,4,2
+796,"Idiot, The",MATHEMATICS,6,8
+797,"Idiot, The",POLITICAL_SCIENCE,13,12
+798,"Idiot, The",PSYCHOLOGY,2,2
+799,"Idiot, The",STATISTICS,9,9
+800,Image Processing & Mathematical Morphology,COMPUTER_SCIENCE,8,11
+801,Image Processing & Mathematical Morphology,DANCE,11,11
+802,Image Processing & Mathematical Morphology,ECONOMICS,5,6
+803,Image Processing & Mathematical Morphology,ENGLISH,7,5
+804,Image Processing & Mathematical Morphology,MATHEMATICS,9,9
+805,Image Processing & Mathematical Morphology,POLITICAL_SCIENCE,5,8
+806,Image Processing & Mathematical Morphology,PSYCHOLOGY,5,6
+807,Image Processing & Mathematical Morphology,STATISTICS,9,9
+808,Image Processing with MATLAB,COMPUTER_SCIENCE,6,6
+809,Image Processing with MATLAB,DANCE,9,10
+810,Image Processing with MATLAB,ECONOMICS,6,6
+811,Image Processing with MATLAB,ENGLISH,7,8
+812,Image Processing with MATLAB,MATHEMATICS,6,6
+813,Image Processing with MATLAB,POLITICAL_SCIENCE,6,7
+814,Image Processing with MATLAB,PSYCHOLOGY,8,7
+815,Image Processing with MATLAB,STATISTICS,13,16
+816,In a Free State,COMPUTER_SCIENCE,5,5
+817,In a Free State,DANCE,6,7
+818,In a Free State,ECONOMICS,5,5
+819,In a Free State,ENGLISH,9,9
+820,In a Free State,MATHEMATICS,13,10
+821,In a Free State,POLITICAL_SCIENCE,6,6
+822,In a Free State,PSYCHOLOGY,6,7
+823,In a Free State,STATISTICS,6,6
+824,India from Midnight to Milennium,COMPUTER_SCIENCE,6,6
+825,India from Midnight to Milennium,DANCE,8,8
+826,India from Midnight to Milennium,ECONOMICS,5,5
+827,India from Midnight to Milennium,ENGLISH,7,7
+828,India from Midnight to Milennium,MATHEMATICS,3,3
+829,India from Midnight to Milennium,POLITICAL_SCIENCE,8,9
+830,India from Midnight to Milennium,PSYCHOLOGY,6,10
+831,India from Midnight to Milennium,STATISTICS,5,7
+832,India's Legal System,COMPUTER_SCIENCE,3,4
+833,India's Legal System,DANCE,6,6
+834,India's Legal System,ECONOMICS,8,10
+835,India's Legal System,ENGLISH,4,2
+836,India's Legal System,MATHEMATICS,8,9
+837,India's Legal System,POLITICAL_SCIENCE,9,9
+838,India's Legal System,PSYCHOLOGY,6,5
+839,India's Legal System,STATISTICS,8,8
+840,"Information, The",COMPUTER_SCIENCE,9,10
+841,"Information, The",DANCE,6,7
+842,"Information, The",ECONOMICS,7,6
+843,"Information, The",ENGLISH,9,9
+844,"Information, The",MATHEMATICS,4,5
+845,"Information, The",POLITICAL_SCIENCE,3,2
+846,"Information, The",PSYCHOLOGY,4,3
+847,"Information, The",STATISTICS,6,6
+848,Integration of the Indian States,COMPUTER_SCIENCE,4,7
+849,Integration of the Indian States,DANCE,8,6
+850,Integration of the Indian States,ECONOMICS,10,8
+851,Integration of the Indian States,ENGLISH,12,10
+852,Integration of the Indian States,MATHEMATICS,2,2
+853,Integration of the Indian States,POLITICAL_SCIENCE,4,4
+854,Integration of the Indian States,PSYCHOLOGY,4,5
+855,Integration of the Indian States,STATISTICS,7,8
+856,Introduction to Algorithms,COMPUTER_SCIENCE,5,4
+857,Introduction to Algorithms,DANCE,11,10
+858,Introduction to Algorithms,ECONOMICS,6,7
+859,Introduction to Algorithms,ENGLISH,8,8
+860,Introduction to Algorithms,MATHEMATICS,3,3
+861,Introduction to Algorithms,POLITICAL_SCIENCE,4,4
+862,Introduction to Algorithms,PSYCHOLOGY,5,6
+863,Introduction to Algorithms,STATISTICS,7,7
+864,Jim Corbett Omnibus,COMPUTER_SCIENCE,9,8
+865,Jim Corbett Omnibus,DANCE,8,10
+866,Jim Corbett Omnibus,ECONOMICS,3,3
+867,Jim Corbett Omnibus,ENGLISH,8,8
+868,Jim Corbett Omnibus,MATHEMATICS,4,4
+869,Jim Corbett Omnibus,POLITICAL_SCIENCE,8,8
+870,Jim Corbett Omnibus,PSYCHOLOGY,7,8
+871,Jim Corbett Omnibus,STATISTICS,8,9
+872,"Journal of Economics, vol 106 No 3",COMPUTER_SCIENCE,8,7
+873,"Journal of Economics, vol 106 No 3",DANCE,9,9
+874,"Journal of Economics, vol 106 No 3",ECONOMICS,7,7
+875,"Journal of Economics, vol 106 No 3",ENGLISH,10,10
+876,"Journal of Economics, vol 106 No 3",MATHEMATICS,11,11
+877,"Journal of Economics, vol 106 No 3",POLITICAL_SCIENCE,13,12
+878,"Journal of Economics, vol 106 No 3",PSYCHOLOGY,7,7
+879,"Journal of Economics, vol 106 No 3",STATISTICS,4,6
+880,Journal of a Novel,COMPUTER_SCIENCE,6,2
+881,Journal of a Novel,DANCE,2,4
+882,Journal of a Novel,ECONOMICS,11,10
+883,Journal of a Novel,ENGLISH,5,6
+884,Journal of a Novel,MATHEMATICS,4,5
+885,Journal of a Novel,POLITICAL_SCIENCE,9,8
+886,Journal of a Novel,PSYCHOLOGY,6,6
+887,Journal of a Novel,STATISTICS,5,8
+888,"Judge, The",COMPUTER_SCIENCE,7,7
+889,"Judge, The",DANCE,5,6
+890,"Judge, The",ECONOMICS,6,5
+891,"Judge, The",ENGLISH,8,7
+892,"Judge, The",MATHEMATICS,4,7
+893,"Judge, The",POLITICAL_SCIENCE,5,3
+894,"Judge, The",PSYCHOLOGY,11,9
+895,"Judge, The",STATISTICS,8,8
+896,Jurassic Park,COMPUTER_SCIENCE,7,4
+897,Jurassic Park,DANCE,4,4
+898,Jurassic Park,ECONOMICS,5,6
+899,Jurassic Park,ENGLISH,5,6
+900,Jurassic Park,MATHEMATICS,3,3
+901,Jurassic Park,POLITICAL_SCIENCE,5,2
+902,Jurassic Park,PSYCHOLOGY,6,7
+903,Jurassic Park,STATISTICS,2,2
+904,Justice League: The Villain's Journey,COMPUTER_SCIENCE,8,9
+905,Justice League: The Villain's Journey,DANCE,5,4
+906,Justice League: The Villain's Journey,ECONOMICS,9,6
+907,Justice League: The Villain's Journey,ENGLISH,10,10
+908,Justice League: The Villain's Journey,MATHEMATICS,6,6
+909,Justice League: The Villain's Journey,POLITICAL_SCIENCE,12,12
+910,Justice League: The Villain's Journey,PSYCHOLOGY,2,0
+911,Justice League: The Villain's Journey,STATISTICS,2,2
+912,Justice League: Throne of Atlantis,COMPUTER_SCIENCE,9,9
+913,Justice League: Throne of Atlantis,DANCE,3,4
+914,Justice League: Throne of Atlantis,ECONOMICS,3,8
+915,Justice League: Throne of Atlantis,ENGLISH,9,9
+916,Justice League: Throne of Atlantis,MATHEMATICS,6,5
+917,Justice League: Throne of Atlantis,POLITICAL_SCIENCE,9,9
+918,Justice League: Throne of Atlantis,PSYCHOLOGY,5,6
+919,Justice League: Throne of Atlantis,STATISTICS,3,3
+920,"Justice, Judiciary and Democracy",COMPUTER_SCIENCE,5,5
+921,"Justice, Judiciary and Democracy",DANCE,5,5
+922,"Justice, Judiciary and Democracy",ECONOMICS,7,7
+923,"Justice, Judiciary and Democracy",ENGLISH,9,8
+924,"Justice, Judiciary and Democracy",MATHEMATICS,5,6
+925,"Justice, Judiciary and Democracy",POLITICAL_SCIENCE,9,9
+926,"Justice, Judiciary and Democracy",PSYCHOLOGY,3,3
+927,"Justice, Judiciary and Democracy",STATISTICS,2,3
+928,Karl Marx Biography,COMPUTER_SCIENCE,7,5
+929,Karl Marx Biography,DANCE,9,8
+930,Karl Marx Biography,ECONOMICS,4,5
+931,Karl Marx Biography,ENGLISH,9,9
+932,Karl Marx Biography,MATHEMATICS,7,7
+933,Karl Marx Biography,POLITICAL_SCIENCE,4,7
+934,Karl Marx Biography,PSYCHOLOGY,5,6
+935,Karl Marx Biography,STATISTICS,5,7
+936,"Killing Joke, The",COMPUTER_SCIENCE,9,7
+937,"Killing Joke, The",DANCE,5,4
+938,"Killing Joke, The",ECONOMICS,4,1
+939,"Killing Joke, The",ENGLISH,10,10
+940,"Killing Joke, The",MATHEMATICS,4,3
+941,"Killing Joke, The",POLITICAL_SCIENCE,8,6
+942,"Killing Joke, The",PSYCHOLOGY,12,9
+943,"Killing Joke, The",STATISTICS,6,5
+944,"Last Lecture, The",COMPUTER_SCIENCE,6,5
+945,"Last Lecture, The",DANCE,9,8
+946,"Last Lecture, The",ECONOMICS,9,7
+947,"Last Lecture, The",ENGLISH,9,11
+948,"Last Lecture, The",MATHEMATICS,8,8
+949,"Last Lecture, The",POLITICAL_SCIENCE,5,4
+950,"Last Lecture, The",PSYCHOLOGY,2,0
+951,"Last Lecture, The",STATISTICS,5,5
+952,"Last Mughal, The",COMPUTER_SCIENCE,6,6
+953,"Last Mughal, The",DANCE,9,9
+954,"Last Mughal, The",ECONOMICS,6,4
+955,"Last Mughal, The",ENGLISH,5,7
+956,"Last Mughal, The",MATHEMATICS,6,9
+957,"Last Mughal, The",POLITICAL_SCIENCE,4,5
+958,"Last Mughal, The",PSYCHOLOGY,7,11
+959,"Last Mughal, The",STATISTICS,4,4
+960,Learning OpenCV,COMPUTER_SCIENCE,8,5
+961,Learning OpenCV,DANCE,3,4
+962,Learning OpenCV,ECONOMICS,6,8
+963,Learning OpenCV,ENGLISH,7,7
+964,Learning OpenCV,MATHEMATICS,7,7
+965,Learning OpenCV,POLITICAL_SCIENCE,5,5
+966,Learning OpenCV,PSYCHOLOGY,5,5
+967,Learning OpenCV,STATISTICS,9,8
+968,Let Us C,COMPUTER_SCIENCE,6,6
+969,Let Us C,DANCE,8,8
+970,Let Us C,ECONOMICS,2,2
+971,Let Us C,ENGLISH,8,7
+972,Let Us C,MATHEMATICS,13,12
+973,Let Us C,POLITICAL_SCIENCE,6,4
+974,Let Us C,PSYCHOLOGY,8,8
+975,Let Us C,STATISTICS,7,10
+976,"Life in Letters, A",COMPUTER_SCIENCE,4,1
+977,"Life in Letters, A",DANCE,5,4
+978,"Life in Letters, A",ECONOMICS,7,7
+979,"Life in Letters, A",ENGLISH,7,7
+980,"Life in Letters, A",MATHEMATICS,6,5
+981,"Life in Letters, A",POLITICAL_SCIENCE,5,5
+982,"Life in Letters, A",PSYCHOLOGY,2,3
+983,"Life in Letters, A",STATISTICS,7,6
+984,Machine Learning for Hackers,COMPUTER_SCIENCE,4,6
+985,Machine Learning for Hackers,DANCE,9,9
+986,Machine Learning for Hackers,ECONOMICS,5,5
+987,Machine Learning for Hackers,ENGLISH,11,11
+988,Machine Learning for Hackers,MATHEMATICS,5,5
+989,Machine Learning for Hackers,POLITICAL_SCIENCE,4,5
+990,Machine Learning for Hackers,PSYCHOLOGY,10,10
+991,Machine Learning for Hackers,STATISTICS,9,9
+992,Making Software,COMPUTER_SCIENCE,9,10
+993,Making Software,DANCE,9,11
+994,Making Software,ECONOMICS,9,7
+995,Making Software,ENGLISH,8,7
+996,Making Software,MATHEMATICS,12,11
+997,Making Software,POLITICAL_SCIENCE,4,3
+998,Making Software,PSYCHOLOGY,3,4
+999,Making Software,STATISTICS,6,6
+1000,Manasa,COMPUTER_SCIENCE,3,4
+1001,Manasa,DANCE,15,14
+1002,Manasa,ECONOMICS,8,6
+1003,Manasa,ENGLISH,7,5
+1004,Manasa,MATHEMATICS,5,5
+1005,Manasa,POLITICAL_SCIENCE,2,2
+1006,Manasa,PSYCHOLOGY,8,9
+1007,Manasa,STATISTICS,1,1
+1008,Maqta-e-Ghalib,COMPUTER_SCIENCE,7,7
+1009,Maqta-e-Ghalib,DANCE,5,3
+1010,Maqta-e-Ghalib,ECONOMICS,5,5
+1011,Maqta-e-Ghalib,ENGLISH,8,8
+1012,Maqta-e-Ghalib,MATHEMATICS,8,10
+1013,Maqta-e-Ghalib,POLITICAL_SCIENCE,2,1
+1014,Maqta-e-Ghalib,PSYCHOLOGY,13,14
+1015,Maqta-e-Ghalib,STATISTICS,10,11
+1016,"Maugham's Collected Short Stories, Vol 3",COMPUTER_SCIENCE,8,10
+1017,"Maugham's Collected Short Stories, Vol 3",DANCE,10,11
+1018,"Maugham's Collected Short Stories, Vol 3",ECONOMICS,5,5
+1019,"Maugham's Collected Short Stories, Vol 3",ENGLISH,5,6
+1020,"Maugham's Collected Short Stories, Vol 3",MATHEMATICS,6,4
+1021,"Maugham's Collected Short Stories, Vol 3",POLITICAL_SCIENCE,9,11
+1022,"Maugham's Collected Short Stories, Vol 3",PSYCHOLOGY,5,6
+1023,"Maugham's Collected Short Stories, Vol 3",STATISTICS,11,11
+1024,Mein Kampf,COMPUTER_SCIENCE,11,7
+1025,Mein Kampf,DANCE,15,13
+1026,Mein Kampf,ECONOMICS,6,6
+1027,Mein Kampf,ENGLISH,7,7
+1028,Mein Kampf,MATHEMATICS,5,2
+1029,Mein Kampf,POLITICAL_SCIENCE,8,8
+1030,Mein Kampf,PSYCHOLOGY,10,10
+1031,Mein Kampf,STATISTICS,9,9
+1032,Men of Mathematics,COMPUTER_SCIENCE,4,4
+1033,Men of Mathematics,DANCE,6,5
+1034,Men of Mathematics,ECONOMICS,3,4
+1035,Men of Mathematics,ENGLISH,6,7
+1036,Men of Mathematics,MATHEMATICS,5,5
+1037,Men of Mathematics,POLITICAL_SCIENCE,5,5
+1038,Men of Mathematics,PSYCHOLOGY,3,4
+1039,Men of Mathematics,STATISTICS,8,6
+1040,"Moon and Sixpence, The",COMPUTER_SCIENCE,6,6
+1041,"Moon and Sixpence, The",DANCE,6,6
+1042,"Moon and Sixpence, The",ECONOMICS,4,5
+1043,"Moon and Sixpence, The",ENGLISH,6,4
+1044,"Moon and Sixpence, The",MATHEMATICS,6,8
+1045,"Moon and Sixpence, The",POLITICAL_SCIENCE,9,9
+1046,"Moon and Sixpence, The",PSYCHOLOGY,2,1
+1047,"Moon and Sixpence, The",STATISTICS,7,6
+1048,"Moon is Down, The",COMPUTER_SCIENCE,10,9
+1049,"Moon is Down, The",DANCE,9,8
+1050,"Moon is Down, The",ECONOMICS,1,1
+1051,"Moon is Down, The",ENGLISH,1,1
+1052,"Moon is Down, The",MATHEMATICS,8,8
+1053,"Moon is Down, The",POLITICAL_SCIENCE,5,4
+1054,"Moon is Down, The",PSYCHOLOGY,4,3
+1055,"Moon is Down, The",STATISTICS,5,6
+1056,More Tears to Cry,COMPUTER_SCIENCE,4,4
+1057,More Tears to Cry,DANCE,8,9
+1058,More Tears to Cry,ECONOMICS,9,8
+1059,More Tears to Cry,ENGLISH,4,4
+1060,More Tears to Cry,MATHEMATICS,7,7
+1061,More Tears to Cry,POLITICAL_SCIENCE,6,5
+1062,More Tears to Cry,PSYCHOLOGY,8,8
+1063,More Tears to Cry,STATISTICS,7,7
+1064,Mossad,COMPUTER_SCIENCE,11,10
+1065,Mossad,DANCE,5,6
+1066,Mossad,ECONOMICS,6,7
+1067,Mossad,ENGLISH,4,2
+1068,Mossad,MATHEMATICS,6,5
+1069,Mossad,POLITICAL_SCIENCE,6,5
+1070,Mossad,PSYCHOLOGY,16,16
+1071,Mossad,STATISTICS,4,4
+1072,Murphy's Law,COMPUTER_SCIENCE,9,8
+1073,Murphy's Law,DANCE,6,6
+1074,Murphy's Law,ECONOMICS,5,3
+1075,Murphy's Law,ENGLISH,6,4
+1076,Murphy's Law,MATHEMATICS,4,3
+1077,Murphy's Law,POLITICAL_SCIENCE,6,4
+1078,Murphy's Law,PSYCHOLOGY,5,5
+1079,Murphy's Law,STATISTICS,6,6
+1080,"Nature of Statistical Learning Theory, The",COMPUTER_SCIENCE,9,9
+1081,"Nature of Statistical Learning Theory, The",DANCE,8,9
+1082,"Nature of Statistical Learning Theory, The",ECONOMICS,7,8
+1083,"Nature of Statistical Learning Theory, The",ENGLISH,11,11
+1084,"Nature of Statistical Learning Theory, The",MATHEMATICS,8,8
+1085,"Nature of Statistical Learning Theory, The",POLITICAL_SCIENCE,6,5
+1086,"Nature of Statistical Learning Theory, The",PSYCHOLOGY,7,6
+1087,"Nature of Statistical Learning Theory, The",STATISTICS,8,6
+1088,Neural Networks,COMPUTER_SCIENCE,6,5
+1089,Neural Networks,DANCE,7,5
+1090,Neural Networks,ECONOMICS,4,5
+1091,Neural Networks,ENGLISH,5,4
+1092,Neural Networks,MATHEMATICS,7,9
+1093,Neural Networks,POLITICAL_SCIENCE,8,7
+1094,Neural Networks,PSYCHOLOGY,8,7
+1095,Neural Networks,STATISTICS,5,6
+1096,"New Machiavelli, The",COMPUTER_SCIENCE,8,6
+1097,"New Machiavelli, The",DANCE,5,4
+1098,"New Machiavelli, The",ECONOMICS,7,7
+1099,"New Machiavelli, The",ENGLISH,4,4
+1100,"New Machiavelli, The",MATHEMATICS,4,5
+1101,"New Machiavelli, The",POLITICAL_SCIENCE,4,4
+1102,"New Machiavelli, The",PSYCHOLOGY,3,2
+1103,"New Machiavelli, The",STATISTICS,10,13
+1104,New Markets & Other Essays,COMPUTER_SCIENCE,8,8
+1105,New Markets & Other Essays,DANCE,8,8
+1106,New Markets & Other Essays,ECONOMICS,6,5
+1107,New Markets & Other Essays,ENGLISH,12,10
+1108,New Markets & Other Essays,MATHEMATICS,9,11
+1109,New Markets & Other Essays,POLITICAL_SCIENCE,3,3
+1110,New Markets & Other Essays,PSYCHOLOGY,3,3
+1111,New Markets & Other Essays,STATISTICS,6,4
+1112,"Numbers Behind Numb3rs, The",COMPUTER_SCIENCE,6,6
+1113,"Numbers Behind Numb3rs, The",DANCE,8,9
+1114,"Numbers Behind Numb3rs, The",ECONOMICS,4,4
+1115,"Numbers Behind Numb3rs, The",ENGLISH,5,6
+1116,"Numbers Behind Numb3rs, The",MATHEMATICS,4,2
+1117,"Numbers Behind Numb3rs, The",POLITICAL_SCIENCE,6,3
+1118,"Numbers Behind Numb3rs, The",PSYCHOLOGY,8,12
+1119,"Numbers Behind Numb3rs, The",STATISTICS,3,3
+1120,O Jerusalem!,COMPUTER_SCIENCE,8,8
+1121,O Jerusalem!,DANCE,6,6
+1122,O Jerusalem!,ECONOMICS,9,9
+1123,O Jerusalem!,ENGLISH,6,7
+1124,O Jerusalem!,MATHEMATICS,3,0
+1125,O Jerusalem!,POLITICAL_SCIENCE,7,7
+1126,O Jerusalem!,PSYCHOLOGY,5,10
+1127,O Jerusalem!,STATISTICS,1,2
+1128,On Education,COMPUTER_SCIENCE,9,9
+1129,On Education,DANCE,6,5
+1130,On Education,ECONOMICS,1,0
+1131,On Education,ENGLISH,5,5
+1132,On Education,MATHEMATICS,7,8
+1133,On Education,POLITICAL_SCIENCE,5,5
+1134,On Education,PSYCHOLOGY,9,9
+1135,On Education,STATISTICS,6,10
+1136,Once There Was a War,COMPUTER_SCIENCE,7,9
+1137,Once There Was a War,DANCE,9,9
+1138,Once There Was a War,ECONOMICS,10,11
+1139,Once There Was a War,ENGLISH,9,10
+1140,Once There Was a War,MATHEMATICS,8,7
+1141,Once There Was a War,POLITICAL_SCIENCE,5,4
+1142,Once There Was a War,PSYCHOLOGY,9,8
+1143,Once There Was a War,STATISTICS,10,10
+1144,One,COMPUTER_SCIENCE,5,2
+1145,One,DANCE,8,8
+1146,One,ECONOMICS,7,7
+1147,One,ENGLISH,11,13
+1148,One,MATHEMATICS,8,8
+1149,One,POLITICAL_SCIENCE,5,4
+1150,One,STATISTICS,6,5
+1151,Orientalism,COMPUTER_SCIENCE,8,7
+1152,Orientalism,DANCE,6,10
+1153,Orientalism,ECONOMICS,1,-5
+1154,Orientalism,ENGLISH,4,4
+1155,Orientalism,MATHEMATICS,11,10
+1156,Orientalism,POLITICAL_SCIENCE,7,9
+1157,Orientalism,PSYCHOLOGY,1,1
+1158,Orientalism,STATISTICS,7,6
+1159,"Outsider, The",COMPUTER_SCIENCE,5,7
+1160,"Outsider, The",DANCE,8,8
+1161,"Outsider, The",ECONOMICS,5,5
+1162,"Outsider, The",ENGLISH,7,8
+1163,"Outsider, The",MATHEMATICS,7,7
+1164,"Outsider, The",POLITICAL_SCIENCE,6,7
+1165,"Outsider, The",PSYCHOLOGY,6,8
+1166,"Outsider, The",STATISTICS,6,7
+1167,Oxford book of Modern Science Writing,COMPUTER_SCIENCE,11,13
+1168,Oxford book of Modern Science Writing,DANCE,5,6
+1169,Oxford book of Modern Science Writing,ECONOMICS,6,5
+1170,Oxford book of Modern Science Writing,ENGLISH,7,9
+1171,Oxford book of Modern Science Writing,MATHEMATICS,10,9
+1172,Oxford book of Modern Science Writing,POLITICAL_SCIENCE,3,3
+1173,Oxford book of Modern Science Writing,PSYCHOLOGY,12,12
+1174,Oxford book of Modern Science Writing,STATISTICS,6,7
+1175,Pattern Classification,COMPUTER_SCIENCE,5,5
+1176,Pattern Classification,DANCE,9,8
+1177,Pattern Classification,ECONOMICS,3,5
+1178,Pattern Classification,ENGLISH,6,6
+1179,Pattern Classification,MATHEMATICS,5,6
+1180,Pattern Classification,POLITICAL_SCIENCE,12,11
+1181,Pattern Classification,PSYCHOLOGY,9,8
+1182,Pattern Classification,STATISTICS,8,9
+1183,"Phantom of Manhattan, The",COMPUTER_SCIENCE,6,7
+1184,"Phantom of Manhattan, The",DANCE,10,10
+1185,"Phantom of Manhattan, The",ECONOMICS,5,5
+1186,"Phantom of Manhattan, The",ENGLISH,8,7
+1187,"Phantom of Manhattan, The",MATHEMATICS,8,7
+1188,"Phantom of Manhattan, The",POLITICAL_SCIENCE,10,10
+1189,"Phantom of Manhattan, The",PSYCHOLOGY,7,7
+1190,"Phantom of Manhattan, The",STATISTICS,6,7
+1191,Philosophy: Who Needs It,COMPUTER_SCIENCE,9,10
+1192,Philosophy: Who Needs It,DANCE,10,10
+1193,Philosophy: Who Needs It,ECONOMICS,7,6
+1194,Philosophy: Who Needs It,ENGLISH,9,8
+1195,Philosophy: Who Needs It,MATHEMATICS,5,4
+1196,Philosophy: Who Needs It,POLITICAL_SCIENCE,9,8
+1197,Philosophy: Who Needs It,PSYCHOLOGY,4,5
+1198,Philosophy: Who Needs It,STATISTICS,3,4
+1199,Physics & Philosophy,COMPUTER_SCIENCE,6,3
+1200,Physics & Philosophy,DANCE,10,10
+1201,Physics & Philosophy,ECONOMICS,2,2
+1202,Physics & Philosophy,ENGLISH,6,7
+1203,Physics & Philosophy,MATHEMATICS,6,6
+1204,Physics & Philosophy,POLITICAL_SCIENCE,2,2
+1205,Physics & Philosophy,PSYCHOLOGY,9,9
+1206,Physics & Philosophy,STATISTICS,7,6
+1207,"Pillars of the Earth, The",COMPUTER_SCIENCE,6,6
+1208,"Pillars of the Earth, The",DANCE,5,6
+1209,"Pillars of the Earth, The",ECONOMICS,3,3
+1210,"Pillars of the Earth, The",ENGLISH,8,8
+1211,"Pillars of the Earth, The",MATHEMATICS,6,6
+1212,"Pillars of the Earth, The",POLITICAL_SCIENCE,7,7
+1213,"Pillars of the Earth, The",PSYCHOLOGY,4,4
+1214,"Pillars of the Earth, The",STATISTICS,7,7
+1215,Pointers in C,COMPUTER_SCIENCE,4,7
+1216,Pointers in C,DANCE,13,11
+1217,Pointers in C,ECONOMICS,8,7
+1218,Pointers in C,ENGLISH,4,4
+1219,Pointers in C,MATHEMATICS,9,9
+1220,Pointers in C,POLITICAL_SCIENCE,4,6
+1221,Pointers in C,PSYCHOLOGY,6,6
+1222,Pointers in C,STATISTICS,3,1
+1223,Political Philosophers,COMPUTER_SCIENCE,8,8
+1224,Political Philosophers,DANCE,3,3
+1225,Political Philosophers,ECONOMICS,10,10
+1226,Political Philosophers,ENGLISH,7,9
+1227,Political Philosophers,MATHEMATICS,5,2
+1228,Political Philosophers,POLITICAL_SCIENCE,5,6
+1229,Political Philosophers,PSYCHOLOGY,11,12
+1230,Political Philosophers,STATISTICS,7,8
+1231,Power Electronics - Mohan,COMPUTER_SCIENCE,11,13
+1232,Power Electronics - Mohan,DANCE,7,7
+1233,Power Electronics - Mohan,ECONOMICS,5,1
+1234,Power Electronics - Mohan,ENGLISH,6,7
+1235,Power Electronics - Mohan,MATHEMATICS,6,8
+1236,Power Electronics - Mohan,POLITICAL_SCIENCE,4,3
+1237,Power Electronics - Mohan,PSYCHOLOGY,4,4
+1238,Power Electronics - Mohan,STATISTICS,11,10
+1239,Power Electronics - Rashid,COMPUTER_SCIENCE,9,8
+1240,Power Electronics - Rashid,DANCE,7,5
+1241,Power Electronics - Rashid,ECONOMICS,2,3
+1242,Power Electronics - Rashid,ENGLISH,7,8
+1243,Power Electronics - Rashid,MATHEMATICS,5,6
+1244,Power Electronics - Rashid,POLITICAL_SCIENCE,5,6
+1245,Power Electronics - Rashid,PSYCHOLOGY,4,4
+1246,Power Electronics - Rashid,STATISTICS,6,7
+1247,"Prince, The",COMPUTER_SCIENCE,7,6
+1248,"Prince, The",DANCE,7,7
+1249,"Prince, The",ECONOMICS,5,6
+1250,"Prince, The",ENGLISH,7,6
+1251,"Prince, The",MATHEMATICS,7,7
+1252,"Prince, The",POLITICAL_SCIENCE,7,8
+1253,"Prince, The",PSYCHOLOGY,5,6
+1254,"Prince, The",STATISTICS,11,12
+1255,Principles of Communication Systems,COMPUTER_SCIENCE,6,6
+1256,Principles of Communication Systems,DANCE,6,3
+1257,Principles of Communication Systems,ECONOMICS,4,6
+1258,Principles of Communication Systems,ENGLISH,9,10
+1259,Principles of Communication Systems,MATHEMATICS,11,10
+1260,Principles of Communication Systems,POLITICAL_SCIENCE,12,15
+1261,Principles of Communication Systems,PSYCHOLOGY,4,3
+1262,Principles of Communication Systems,STATISTICS,3,1
+1263,"Prisoner of Birth, A",COMPUTER_SCIENCE,3,3
+1264,"Prisoner of Birth, A",DANCE,10,8
+1265,"Prisoner of Birth, A",ECONOMICS,9,10
+1266,"Prisoner of Birth, A",ENGLISH,2,3
+1267,"Prisoner of Birth, A",MATHEMATICS,7,7
+1268,"Prisoner of Birth, A",POLITICAL_SCIENCE,2,2
+1269,"Prisoner of Birth, A",PSYCHOLOGY,5,5
+1270,"Prisoner of Birth, A",STATISTICS,4,4
+1271,Python for Data Analysis,COMPUTER_SCIENCE,6,8
+1272,Python for Data Analysis,DANCE,5,6
+1273,Python for Data Analysis,ECONOMICS,4,4
+1274,Python for Data Analysis,ENGLISH,7,7
+1275,Python for Data Analysis,MATHEMATICS,4,3
+1276,Python for Data Analysis,POLITICAL_SCIENCE,8,8
+1277,Python for Data Analysis,PSYCHOLOGY,8,8
+1278,Python for Data Analysis,STATISTICS,9,9
+1279,Radiowaril Bhashane & Shrutika,COMPUTER_SCIENCE,8,10
+1280,Radiowaril Bhashane & Shrutika,DANCE,4,4
+1281,Radiowaril Bhashane & Shrutika,ECONOMICS,7,7
+1282,Radiowaril Bhashane & Shrutika,ENGLISH,6,5
+1283,Radiowaril Bhashane & Shrutika,MATHEMATICS,10,11
+1284,Radiowaril Bhashane & Shrutika,POLITICAL_SCIENCE,8,7
+1285,Radiowaril Bhashane & Shrutika,STATISTICS,3,2
+1286,"Raisin in the Sun, A",COMPUTER_SCIENCE,8,7
+1287,"Raisin in the Sun, A",DANCE,6,6
+1288,"Raisin in the Sun, A",ECONOMICS,9,9
+1289,"Raisin in the Sun, A",ENGLISH,4,4
+1290,"Raisin in the Sun, A",MATHEMATICS,5,5
+1291,"Raisin in the Sun, A",POLITICAL_SCIENCE,4,3
+1292,"Raisin in the Sun, A",PSYCHOLOGY,6,7
+1293,"Raisin in the Sun, A",STATISTICS,6,7
+1294,Rationality & Freedom,COMPUTER_SCIENCE,6,6
+1295,Rationality & Freedom,DANCE,3,3
+1296,Rationality & Freedom,ECONOMICS,6,10
+1297,Rationality & Freedom,ENGLISH,4,-1
+1298,Rationality & Freedom,MATHEMATICS,4,3
+1299,Rationality & Freedom,POLITICAL_SCIENCE,4,4
+1300,Rationality & Freedom,PSYCHOLOGY,6,6
+1301,Rationality & Freedom,STATISTICS,4,4
+1302,Return of the Primitive,COMPUTER_SCIENCE,7,12
+1303,Return of the Primitive,DANCE,4,5
+1304,Return of the Primitive,ECONOMICS,4,4
+1305,Return of the Primitive,ENGLISH,8,6
+1306,Return of the Primitive,MATHEMATICS,1,1
+1307,Return of the Primitive,POLITICAL_SCIENCE,5,5
+1308,Return of the Primitive,PSYCHOLOGY,8,9
+1309,Return of the Primitive,STATISTICS,11,11
+1310,"Ropemaker, The",COMPUTER_SCIENCE,4,2
+1311,"Ropemaker, The",DANCE,8,8
+1312,"Ropemaker, The",ECONOMICS,6,7
+1313,"Ropemaker, The",ENGLISH,3,3
+1314,"Ropemaker, The",MATHEMATICS,11,10
+1315,"Ropemaker, The",POLITICAL_SCIENCE,6,6
+1316,"Ropemaker, The",PSYCHOLOGY,5,5
+1317,"Ropemaker, The",STATISTICS,9,9
+1318,Rosy is My Relative,COMPUTER_SCIENCE,6,6
+1319,Rosy is My Relative,DANCE,6,6
+1320,Rosy is My Relative,ECONOMICS,3,4
+1321,Rosy is My Relative,ENGLISH,10,10
+1322,Rosy is My Relative,MATHEMATICS,7,7
+1323,Rosy is My Relative,POLITICAL_SCIENCE,6,8
+1324,Rosy is My Relative,PSYCHOLOGY,7,7
+1325,Rosy is My Relative,STATISTICS,7,6
+1326,"Russian Journal, A",COMPUTER_SCIENCE,8,8
+1327,"Russian Journal, A",DANCE,6,7
+1328,"Russian Journal, A",ECONOMICS,4,6
+1329,"Russian Journal, A",ENGLISH,4,2
+1330,"Russian Journal, A",MATHEMATICS,11,10
+1331,"Russian Journal, A",POLITICAL_SCIENCE,5,7
+1332,"Russian Journal, A",PSYCHOLOGY,8,7
+1333,"Russian Journal, A",STATISTICS,6,5
+1334,Scoop!,COMPUTER_SCIENCE,5,5
+1335,Scoop!,DANCE,7,7
+1336,Scoop!,ECONOMICS,6,7
+1337,Scoop!,ENGLISH,8,8
+1338,Scoop!,MATHEMATICS,10,9
+1339,Scoop!,POLITICAL_SCIENCE,6,6
+1340,Scoop!,PSYCHOLOGY,5,6
+1341,Scoop!,STATISTICS,3,3
+1342,Sea of Poppies,COMPUTER_SCIENCE,6,6
+1343,Sea of Poppies,DANCE,3,2
+1344,Sea of Poppies,ECONOMICS,3,4
+1345,Sea of Poppies,ENGLISH,13,13
+1346,Sea of Poppies,MATHEMATICS,7,8
+1347,Sea of Poppies,POLITICAL_SCIENCE,6,7
+1348,Sea of Poppies,PSYCHOLOGY,5,6
+1349,Sea of Poppies,STATISTICS,9,10
+1350,Selected Short Stories,COMPUTER_SCIENCE,6,7
+1351,Selected Short Stories,DANCE,5,5
+1352,Selected Short Stories,ECONOMICS,5,8
+1353,Selected Short Stories,ENGLISH,8,7
+1354,Selected Short Stories,MATHEMATICS,8,7
+1355,Selected Short Stories,POLITICAL_SCIENCE,13,13
+1356,Selected Short Stories,PSYCHOLOGY,8,8
+1357,Selected Short Stories,STATISTICS,6,6
+1358,"Short History of the World, A",COMPUTER_SCIENCE,5,5
+1359,"Short History of the World, A",DANCE,8,7
+1360,"Short History of the World, A",ECONOMICS,5,5
+1361,"Short History of the World, A",ENGLISH,3,3
+1362,"Short History of the World, A",MATHEMATICS,10,9
+1363,"Short History of the World, A",POLITICAL_SCIENCE,5,5
+1364,"Short History of the World, A",PSYCHOLOGY,9,6
+1365,"Short History of the World, A",STATISTICS,7,7
+1366,"Signal and the Noise, The",COMPUTER_SCIENCE,8,8
+1367,"Signal and the Noise, The",DANCE,13,10
+1368,"Signal and the Noise, The",ECONOMICS,4,2
+1369,"Signal and the Noise, The",ENGLISH,8,8
+1370,"Signal and the Noise, The",MATHEMATICS,10,11
+1371,"Signal and the Noise, The",POLITICAL_SCIENCE,9,9
+1372,"Signal and the Noise, The",PSYCHOLOGY,6,6
+1373,"Signal and the Noise, The",STATISTICS,11,10
+1374,Simpsons & Their Mathematical Secrets,COMPUTER_SCIENCE,4,4
+1375,Simpsons & Their Mathematical Secrets,DANCE,10,12
+1376,Simpsons & Their Mathematical Secrets,ECONOMICS,4,6
+1377,Simpsons & Their Mathematical Secrets,ENGLISH,7,8
+1378,Simpsons & Their Mathematical Secrets,MATHEMATICS,7,9
+1379,Simpsons & Their Mathematical Secrets,POLITICAL_SCIENCE,8,6
+1380,Simpsons & Their Mathematical Secrets,PSYCHOLOGY,7,7
+1381,Simpsons & Their Mathematical Secrets,STATISTICS,8,9
+1382,Slaughterhouse Five,COMPUTER_SCIENCE,9,6
+1383,Slaughterhouse Five,DANCE,1,0
+1384,Slaughterhouse Five,ECONOMICS,8,8
+1385,Slaughterhouse Five,ENGLISH,7,7
+1386,Slaughterhouse Five,MATHEMATICS,14,14
+1387,Slaughterhouse Five,POLITICAL_SCIENCE,5,6
+1388,Slaughterhouse Five,PSYCHOLOGY,7,6
+1389,Slaughterhouse Five,STATISTICS,3,2
+1390,"Social Choice & Welfare, Vol 39 No. 1",COMPUTER_SCIENCE,1,1
+1391,"Social Choice & Welfare, Vol 39 No. 1",DANCE,4,7
+1392,"Social Choice & Welfare, Vol 39 No. 1",ECONOMICS,4,2
+1393,"Social Choice & Welfare, Vol 39 No. 1",ENGLISH,13,14
+1394,"Social Choice & Welfare, Vol 39 No. 1",MATHEMATICS,6,6
+1395,"Social Choice & Welfare, Vol 39 No. 1",POLITICAL_SCIENCE,7,8
+1396,"Social Choice & Welfare, Vol 39 No. 1",PSYCHOLOGY,9,9
+1397,"Social Choice & Welfare, Vol 39 No. 1",STATISTICS,6,2
+1398,Soft Computing & Intelligent Systems,COMPUTER_SCIENCE,3,2
+1399,Soft Computing & Intelligent Systems,DANCE,6,6
+1400,Soft Computing & Intelligent Systems,ECONOMICS,8,7
+1401,Soft Computing & Intelligent Systems,ENGLISH,6,7
+1402,Soft Computing & Intelligent Systems,MATHEMATICS,5,6
+1403,Soft Computing & Intelligent Systems,POLITICAL_SCIENCE,4,5
+1404,Soft Computing & Intelligent Systems,PSYCHOLOGY,9,9
+1405,Soft Computing & Intelligent Systems,STATISTICS,8,3
+1406,Statistical Decision Theory',COMPUTER_SCIENCE,8,6
+1407,Statistical Decision Theory',DANCE,7,7
+1408,Statistical Decision Theory',ECONOMICS,8,7
+1409,Statistical Decision Theory',ENGLISH,4,3
+1410,Statistical Decision Theory',MATHEMATICS,2,2
+1411,Statistical Decision Theory',POLITICAL_SCIENCE,6,6
+1412,Statistical Decision Theory',PSYCHOLOGY,7,6
+1413,Statistical Decision Theory',STATISTICS,4,4
+1414,Statistical Learning Theory,COMPUTER_SCIENCE,4,3
+1415,Statistical Learning Theory,DANCE,2,3
+1416,Statistical Learning Theory,ECONOMICS,6,6
+1417,Statistical Learning Theory,ENGLISH,2,2
+1418,Statistical Learning Theory,MATHEMATICS,8,11
+1419,Statistical Learning Theory,POLITICAL_SCIENCE,5,7
+1420,Statistical Learning Theory,PSYCHOLOGY,9,8
+1421,Statistical Learning Theory,STATISTICS,7,7
+1422,"Story of Philosophy, The",COMPUTER_SCIENCE,14,15
+1423,"Story of Philosophy, The",DANCE,6,8
+1424,"Story of Philosophy, The",ECONOMICS,4,8
+1425,"Story of Philosophy, The",ENGLISH,4,5
+1426,"Story of Philosophy, The",MATHEMATICS,7,6
+1427,"Story of Philosophy, The",POLITICAL_SCIENCE,3,2
+1428,"Story of Philosophy, The",PSYCHOLOGY,5,5
+1429,"Story of Philosophy, The",STATISTICS,4,4
+1430,Structure & Interpretation of Computer Programs,COMPUTER_SCIENCE,7,7
+1431,Structure & Interpretation of Computer Programs,DANCE,4,5
+1432,Structure & Interpretation of Computer Programs,ECONOMICS,7,7
+1433,Structure & Interpretation of Computer Programs,ENGLISH,3,3
+1434,Structure & Interpretation of Computer Programs,MATHEMATICS,9,8
+1435,Structure & Interpretation of Computer Programs,POLITICAL_SCIENCE,7,5
+1436,Structure & Interpretation of Computer Programs,PSYCHOLOGY,9,10
+1437,Structure & Interpretation of Computer Programs,STATISTICS,3,3
+1438,Structure and Randomness,COMPUTER_SCIENCE,5,5
+1439,Structure and Randomness,DANCE,4,6
+1440,Structure and Randomness,ECONOMICS,10,10
+1441,Structure and Randomness,ENGLISH,7,6
+1442,Structure and Randomness,MATHEMATICS,10,10
+1443,Structure and Randomness,POLITICAL_SCIENCE,3,2
+1444,Structure and Randomness,PSYCHOLOGY,9,10
+1445,Structure and Randomness,STATISTICS,3,3
+1446,Superfreakonomics,COMPUTER_SCIENCE,9,10
+1447,Superfreakonomics,DANCE,8,11
+1448,Superfreakonomics,ECONOMICS,6,5
+1449,Superfreakonomics,ENGLISH,6,10
+1450,Superfreakonomics,MATHEMATICS,7,7
+1451,Superfreakonomics,POLITICAL_SCIENCE,6,5
+1452,Superfreakonomics,PSYCHOLOGY,9,11
+1453,Superfreakonomics,STATISTICS,6,7
+1454,Superman Earth One - 1,COMPUTER_SCIENCE,7,7
+1455,Superman Earth One - 1,DANCE,8,8
+1456,Superman Earth One - 1,ECONOMICS,5,5
+1457,Superman Earth One - 1,ENGLISH,6,6
+1458,Superman Earth One - 1,MATHEMATICS,6,6
+1459,Superman Earth One - 1,POLITICAL_SCIENCE,6,6
+1460,Superman Earth One - 1,PSYCHOLOGY,7,7
+1461,Superman Earth One - 1,STATISTICS,6,6
+1462,Superman Earth One - 2,COMPUTER_SCIENCE,10,10
+1463,Superman Earth One - 2,DANCE,5,5
+1464,Superman Earth One - 2,ECONOMICS,2,4
+1465,Superman Earth One - 2,ENGLISH,5,5
+1466,Superman Earth One - 2,MATHEMATICS,9,7
+1467,Superman Earth One - 2,POLITICAL_SCIENCE,3,1
+1468,Superman Earth One - 2,PSYCHOLOGY,6,7
+1469,Superman Earth One - 2,STATISTICS,11,9
+1470,Surely You're Joking Mr Feynman,COMPUTER_SCIENCE,7,7
+1471,Surely You're Joking Mr Feynman,DANCE,6,6
+1472,Surely You're Joking Mr Feynman,ECONOMICS,7,6
+1473,Surely You're Joking Mr Feynman,ENGLISH,6,6
+1474,Surely You're Joking Mr Feynman,MATHEMATICS,7,7
+1475,Surely You're Joking Mr Feynman,POLITICAL_SCIENCE,5,5
+1476,Surely You're Joking Mr Feynman,PSYCHOLOGY,5,2
+1477,Surely You're Joking Mr Feynman,STATISTICS,2,3
+1478,Tales of Beedle the Bard,COMPUTER_SCIENCE,2,1
+1479,Tales of Beedle the Bard,DANCE,1,1
+1480,Tales of Beedle the Bard,ECONOMICS,5,7
+1481,Tales of Beedle the Bard,ENGLISH,4,4
+1482,Tales of Beedle the Bard,MATHEMATICS,9,8
+1483,Tales of Beedle the Bard,POLITICAL_SCIENCE,10,10
+1484,Tales of Beedle the Bard,PSYCHOLOGY,6,5
+1485,Tales of Beedle the Bard,STATISTICS,7,5
+1486,Tales of Mystery and Imagination,COMPUTER_SCIENCE,6,7
+1487,Tales of Mystery and Imagination,DANCE,13,13
+1488,Tales of Mystery and Imagination,ECONOMICS,4,4
+1489,Tales of Mystery and Imagination,ENGLISH,11,10
+1490,Tales of Mystery and Imagination,MATHEMATICS,5,5
+1491,Tales of Mystery and Imagination,POLITICAL_SCIENCE,8,7
+1492,Tales of Mystery and Imagination,PSYCHOLOGY,4,4
+1493,Tales of Mystery and Imagination,STATISTICS,3,2
+1494,Talking Straight,COMPUTER_SCIENCE,11,11
+1495,Talking Straight,DANCE,9,11
+1496,Talking Straight,ECONOMICS,5,3
+1497,Talking Straight,ENGLISH,6,6
+1498,Talking Straight,MATHEMATICS,11,11
+1499,Talking Straight,POLITICAL_SCIENCE,7,6
+1500,Talking Straight,PSYCHOLOGY,2,2
+1501,Talking Straight,STATISTICS,4,5
+1502,"Tao of Physics, The",COMPUTER_SCIENCE,9,11
+1503,"Tao of Physics, The",DANCE,8,7
+1504,"Tao of Physics, The",ECONOMICS,4,4
+1505,"Tao of Physics, The",ENGLISH,3,3
+1506,"Tao of Physics, The",MATHEMATICS,3,3
+1507,"Tao of Physics, The",POLITICAL_SCIENCE,7,7
+1508,"Tao of Physics, The",PSYCHOLOGY,9,9
+1509,"Tao of Physics, The",STATISTICS,4,5
+1510,Textbook of Economic Theory,COMPUTER_SCIENCE,6,7
+1511,Textbook of Economic Theory,DANCE,7,6
+1512,Textbook of Economic Theory,ECONOMICS,10,10
+1513,Textbook of Economic Theory,ENGLISH,9,8
+1514,Textbook of Economic Theory,MATHEMATICS,3,3
+1515,Textbook of Economic Theory,POLITICAL_SCIENCE,8,8
+1516,Textbook of Economic Theory,PSYCHOLOGY,3,3
+1517,Textbook of Economic Theory,STATISTICS,4,3
+1518,"Theory of Everything, The",COMPUTER_SCIENCE,7,8
+1519,"Theory of Everything, The",DANCE,9,9
+1520,"Theory of Everything, The",ECONOMICS,4,4
+1521,"Theory of Everything, The",ENGLISH,4,2
+1522,"Theory of Everything, The",MATHEMATICS,6,6
+1523,"Theory of Everything, The",POLITICAL_SCIENCE,8,8
+1524,"Theory of Everything, The",PSYCHOLOGY,6,7
+1525,"Theory of Everything, The",STATISTICS,8,8
+1526,Think Complexity,COMPUTER_SCIENCE,6,3
+1527,Think Complexity,DANCE,5,4
+1528,Think Complexity,ECONOMICS,5,6
+1529,Think Complexity,ENGLISH,8,7
+1530,Think Complexity,MATHEMATICS,3,1
+1531,Think Complexity,POLITICAL_SCIENCE,5,5
+1532,Think Complexity,PSYCHOLOGY,4,3
+1533,Think Complexity,STATISTICS,6,6
+1534,To Sir With Love,COMPUTER_SCIENCE,5,5
+1535,To Sir With Love,DANCE,9,13
+1536,To Sir With Love,ECONOMICS,5,7
+1537,To Sir With Love,ENGLISH,7,8
+1538,To Sir With Love,MATHEMATICS,7,9
+1539,To Sir With Love,POLITICAL_SCIENCE,7,7
+1540,To Sir With Love,PSYCHOLOGY,7,7
+1541,To Sir With Love,STATISTICS,10,9
+1542,"Trembling of a Leaf, The",COMPUTER_SCIENCE,5,6
+1543,"Trembling of a Leaf, The",DANCE,9,9
+1544,"Trembling of a Leaf, The",ECONOMICS,8,8
+1545,"Trembling of a Leaf, The",ENGLISH,5,5
+1546,"Trembling of a Leaf, The",MATHEMATICS,4,4
+1547,"Trembling of a Leaf, The",POLITICAL_SCIENCE,8,8
+1548,"Trembling of a Leaf, The",PSYCHOLOGY,6,6
+1549,"Trembling of a Leaf, The",STATISTICS,3,3
+1550,"Trial, The",COMPUTER_SCIENCE,6,4
+1551,"Trial, The",DANCE,8,7
+1552,"Trial, The",ECONOMICS,11,12
+1553,"Trial, The",ENGLISH,6,5
+1554,"Trial, The",MATHEMATICS,7,8
+1555,"Trial, The",POLITICAL_SCIENCE,4,3
+1556,"Trial, The",PSYCHOLOGY,10,8
+1557,"Trial, The",STATISTICS,6,6
+1558,Uncommon Wisdom,COMPUTER_SCIENCE,5,4
+1559,Uncommon Wisdom,DANCE,9,10
+1560,Uncommon Wisdom,ECONOMICS,6,6
+1561,Uncommon Wisdom,ENGLISH,4,4
+1562,Uncommon Wisdom,MATHEMATICS,10,11
+1563,Uncommon Wisdom,POLITICAL_SCIENCE,4,5
+1564,Uncommon Wisdom,PSYCHOLOGY,5,5
+1565,Uncommon Wisdom,STATISTICS,7,8
+1566,Unpopular Essays,COMPUTER_SCIENCE,11,12
+1567,Unpopular Essays,DANCE,5,5
+1568,Unpopular Essays,ECONOMICS,6,6
+1569,Unpopular Essays,ENGLISH,8,8
+1570,Unpopular Essays,MATHEMATICS,6,6
+1571,Unpopular Essays,POLITICAL_SCIENCE,7,11
+1572,Unpopular Essays,PSYCHOLOGY,8,8
+1573,Unpopular Essays,STATISTICS,5,6
+1574,Urlasurla,COMPUTER_SCIENCE,5,4
+1575,Urlasurla,DANCE,3,3
+1576,Urlasurla,ECONOMICS,7,9
+1577,Urlasurla,ENGLISH,5,5
+1578,Urlasurla,MATHEMATICS,8,8
+1579,Urlasurla,POLITICAL_SCIENCE,8,10
+1580,Urlasurla,PSYCHOLOGY,9,8
+1581,Urlasurla,STATISTICS,9,10
+1582,Veil: Secret Wars of the CIA,COMPUTER_SCIENCE,5,6
+1583,Veil: Secret Wars of the CIA,DANCE,13,12
+1584,Veil: Secret Wars of the CIA,ECONOMICS,5,5
+1585,Veil: Secret Wars of the CIA,ENGLISH,8,8
+1586,Veil: Secret Wars of the CIA,MATHEMATICS,4,5
+1587,Veil: Secret Wars of the CIA,POLITICAL_SCIENCE,8,6
+1588,Veil: Secret Wars of the CIA,PSYCHOLOGY,4,4
+1589,Veil: Secret Wars of the CIA,STATISTICS,1,2
+1590,"Veteran, The",COMPUTER_SCIENCE,4,4
+1591,"Veteran, The",DANCE,7,9
+1592,"Veteran, The",ECONOMICS,3,3
+1593,"Veteran, The",ENGLISH,8,9
+1594,"Veteran, The",MATHEMATICS,13,13
+1595,"Veteran, The",POLITICAL_SCIENCE,7,5
+1596,"Veteran, The",PSYCHOLOGY,8,9
+1597,"Veteran, The",STATISTICS,5,3
+1598,Vyakti ani Valli,COMPUTER_SCIENCE,4,4
+1599,Vyakti ani Valli,DANCE,3,3
+1600,Vyakti ani Valli,ECONOMICS,5,4
+1601,Vyakti ani Valli,ENGLISH,6,6
+1602,Vyakti ani Valli,MATHEMATICS,10,10
+1603,Vyakti ani Valli,POLITICAL_SCIENCE,7,7
+1604,Vyakti ani Valli,PSYCHOLOGY,2,2
+1605,Vyakti ani Valli,STATISTICS,5,5
+1606,We the Living,COMPUTER_SCIENCE,5,5
+1607,We the Living,DANCE,9,9
+1608,We the Living,ECONOMICS,3,4
+1609,We the Living,ENGLISH,10,10
+1610,We the Living,MATHEMATICS,9,9
+1611,We the Living,POLITICAL_SCIENCE,4,3
+1612,We the Living,PSYCHOLOGY,3,7
+1613,We the Living,STATISTICS,6,7
+1614,We the Nation,COMPUTER_SCIENCE,12,12
+1615,We the Nation,DANCE,9,9
+1616,We the Nation,ECONOMICS,6,6
+1617,We the Nation,ENGLISH,10,11
+1618,We the Nation,MATHEMATICS,2,1
+1619,We the Nation,POLITICAL_SCIENCE,5,5
+1620,We the Nation,PSYCHOLOGY,12,12
+1621,We the Nation,STATISTICS,11,10
+1622,We the People,COMPUTER_SCIENCE,5,6
+1623,We the People,DANCE,4,3
+1624,We the People,ECONOMICS,2,2
+1625,We the People,ENGLISH,9,8
+1626,We the People,MATHEMATICS,9,9
+1627,We the People,POLITICAL_SCIENCE,6,6
+1628,We the People,PSYCHOLOGY,5,2
+1629,We the People,STATISTICS,2,3
+1630,"Wealth of Nations, The",COMPUTER_SCIENCE,6,6
+1631,"Wealth of Nations, The",DANCE,8,5
+1632,"Wealth of Nations, The",ECONOMICS,6,9
+1633,"Wealth of Nations, The",ENGLISH,11,12
+1634,"Wealth of Nations, The",MATHEMATICS,3,3
+1635,"Wealth of Nations, The",POLITICAL_SCIENCE,8,7
+1636,"Wealth of Nations, The",PSYCHOLOGY,3,3
+1637,"Wealth of Nations, The",STATISTICS,3,3
+1638,"Winter of Our Discontent, The",COMPUTER_SCIENCE,6,6
+1639,"Winter of Our Discontent, The",DANCE,8,8
+1640,"Winter of Our Discontent, The",ECONOMICS,1,0
+1641,"Winter of Our Discontent, The",ENGLISH,4,5
+1642,"Winter of Our Discontent, The",MATHEMATICS,4,3
+1643,"Winter of Our Discontent, The",POLITICAL_SCIENCE,7,7
+1644,"Winter of Our Discontent, The",PSYCHOLOGY,12,12
+1645,"Winter of Our Discontent, The",STATISTICS,6,5
+1646,"World's Great Thinkers, The",COMPUTER_SCIENCE,6,5
+1647,"World's Great Thinkers, The",DANCE,8,8
+1648,"World's Great Thinkers, The",ECONOMICS,4,4
+1649,"World's Great Thinkers, The",ENGLISH,2,1
+1650,"World's Great Thinkers, The",MATHEMATICS,7,7
+1651,"World's Great Thinkers, The",POLITICAL_SCIENCE,6,6
+1652,"World's Great Thinkers, The",PSYCHOLOGY,2,2
+1653,"World's Great Thinkers, The",STATISTICS,5,5
+1654,"World's Greatest Short Stories, The",COMPUTER_SCIENCE,3,4
+1655,"World's Greatest Short Stories, The",DANCE,8,8
+1656,"World's Greatest Short Stories, The",ECONOMICS,9,9
+1657,"World's Greatest Short Stories, The",ENGLISH,7,7
+1658,"World's Greatest Short Stories, The",MATHEMATICS,4,5
+1659,"World's Greatest Short Stories, The",POLITICAL_SCIENCE,4,3
+1660,"World's Greatest Short Stories, The",PSYCHOLOGY,6,4
+1661,"World's Greatest Short Stories, The",STATISTICS,7,8
+1662,"World's Greatest Trials, The",COMPUTER_SCIENCE,5,5
+1663,"World's Greatest Trials, The",DANCE,6,6
+1664,"World's Greatest Trials, The",ECONOMICS,6,6
+1665,"World's Greatest Trials, The",ENGLISH,9,10
+1666,"World's Greatest Trials, The",MATHEMATICS,12,13
+1667,"World's Greatest Trials, The",POLITICAL_SCIENCE,13,13
+1668,"World's Greatest Trials, The",PSYCHOLOGY,5,5
+1669,"World's Greatest Trials, The",STATISTICS,4,6
+1670,Zen & The Art of Motorcycle Maintenance,COMPUTER_SCIENCE,11,11
+1671,Zen & The Art of Motorcycle Maintenance,DANCE,8,8
+1672,Zen & The Art of Motorcycle Maintenance,ECONOMICS,10,10
+1673,Zen & The Art of Motorcycle Maintenance,ENGLISH,5,4
+1674,Zen & The Art of Motorcycle Maintenance,MATHEMATICS,3,4
+1675,Zen & The Art of Motorcycle Maintenance,POLITICAL_SCIENCE,7,5
+1676,Zen & The Art of Motorcycle Maintenance,PSYCHOLOGY,6,8
+1677,Zen & The Art of Motorcycle Maintenance,STATISTICS,9,6
