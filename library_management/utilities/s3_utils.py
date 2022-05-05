@@ -13,7 +13,7 @@ def generate_presigned_url(key_name, bucket):
             'Bucket': bucket,
             'Key': key_name
         },
-        ExpiresIn=172800,
+        ExpiresIn=300,
     )
     return url
 
