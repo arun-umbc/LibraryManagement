@@ -8,3 +8,4 @@ rstr==3.1.0
 Faker==13.3.4
 psycopg2-binary==2.9.3
 python-dp==1.1.1
+boto3==1.22.7

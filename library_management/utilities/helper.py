@@ -3,7 +3,6 @@ import os
 import time
 from hashlib import md5
 
-import pandas as pd
 from django.conf import settings
 from pydp.algorithms.laplacian import Count
 
