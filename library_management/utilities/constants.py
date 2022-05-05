@@ -32,6 +32,7 @@ ROLE_TYPES = Konstants(
     K(super_admin='SUPER_ADMIN', label='Super Admin'),
     K(student='STUDENT', label='Student'),
     K(librarian='LIBRARIAN', label='Librarian'),
+    K(external_user='EXTERNAL_USER', label='External User')
     )
 
 

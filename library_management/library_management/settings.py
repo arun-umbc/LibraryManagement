@@ -148,3 +148,8 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.SessionAuthentication'
     )
 }
+
+AWS_STORAGE_BUCKET_NAME = 'library-blob'
+AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' % AWS_STORAGE_BUCKET_NAME
+AWS_MEDIA_LOCATION = 'media'
+MEDIA_URL = "https://%s/%s/" % (AWS_S3_CUSTOM_DOMAIN, AWS_MEDIA_LOCATION)

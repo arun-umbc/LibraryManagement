@@ -40,3 +40,7 @@ LIBRARIAN_RESERVE_FETCH_SUCCESS = 'Reserve fetch successful'
 LIBRARIAN_RESERVE_FETCH_FAIL = 'Reserve fetch failed'
 LIBRARIAN_RESERVE_RETRIEVE_SUCCESS = 'Reserve retrieve successful'
 LIBRARIAN_RESERVE_RETRIEVE_FAIL = 'Reserve retrieve failed'
+
+
+EXTERNAL_USER_DATA_FETCH_SUCCESS = 'External user data fetch successful'
+EXTERNAL_USER_DATA_FETCH_FAIL = 'External user data fetch failed'

@@ -20,5 +20,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/v1/user/', include('library_app.urls.common')),
     path('api/v1/student/', include('library_app.urls.student')),
-    path('api/v1/librarian/', include('library_app.urls.librarian'))
+    path('api/v1/librarian/', include('library_app.urls.librarian')),
+    path('api/v1/external_user/', include('library_app.urls.external_user'))
 ]

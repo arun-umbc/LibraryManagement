@@ -11,3 +11,8 @@ class IsStudent(BasePermission):
 class IsLibrarian(BasePermission):
     def has_permission(self, request, view):
         return True if request.user.role == ROLE_TYPES.librarian else False
+
+
+class IsExternalUser(BasePermission):
+    def has_permission(self, request, view):
+        return True if request.user.role == ROLE_TYPES.external_user else False
