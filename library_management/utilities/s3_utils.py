@@ -22,9 +22,7 @@ def upload_to_s3(file, file_path, bucket):
     upload_path = 'media/' + file_path
     try:
         s3 = boto3.client(
-            "s3",
-            aws_access_key_id=settings.AWS_ACCESS_KEY_ID,
-            aws_secret_access_key=settings.AWS_SECRET_ACCESS_KEY
+            "s3"
         )
         s3.upload_file(
             file,
