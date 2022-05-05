@@ -47,7 +47,7 @@ def create_df_csv(df, condition):
     }
     filename = lookup[int(condition)]
     apply_dp(math.log(3), df, filename)
-    url = upload_to_s3(BASE_DIR + f"/data/{filename}", f"data_share/{filename}", settings.AWS_STORAGE_BUCKET_NAME)
-    # os.remove(BASE_DIR + f"/data/{filename}")
-    # url = generate_presigned_url('media/' + f"data_share/{filename}", settings.AWS_STORAGE_BUCKET_NAME)
+    upload_to_s3(BASE_DIR + f"/data/{filename}", f"data_share/{filename}", settings.AWS_STORAGE_BUCKET_NAME)
+    os.remove(BASE_DIR + f"/data/{filename}")
+    url = generate_presigned_url('media/' + f"data_share/{filename}", settings.AWS_STORAGE_BUCKET_NAME)
     return url
