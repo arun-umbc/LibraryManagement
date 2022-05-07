@@ -19,6 +19,20 @@ class BookRetrieveSerializer(serializers.ModelSerializer):
         exclude = ('created_at', 'updated_at')
 
 
+class BookWriteSerializer(serializers.ModelSerializer):
+
+    def create(self, validated_data):
+        book = Book()
+        book.book_id = create_db_id()
+        for key, value in validated_data.items():
+            setattr(book, key, value)
+        book.save()
+
+    class Meta:
+        model = Book
+        exclude = ('book_id', 'created_at', 'updated_at')
+
+
 class RequestListSerializer(serializers.ModelSerializer):
     user_id = serializers.CharField(source='user.user_id')
     book_name = serializers.CharField(source='book.name')

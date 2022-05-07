@@ -7,14 +7,17 @@ from rest_framework.viewsets import GenericViewSet
 
 from library_app.models import Book, Request, Reserve
 from library_app.serializers.librarian import BookListSerializer, BookRetrieveSerializer, RequestRetrieveSerializer, \
-    RequestListSerializer, RequestUpdateSerializer, ReserveRetrieveSerializer, ReserveListSerializer
+    RequestListSerializer, RequestUpdateSerializer, ReserveRetrieveSerializer, ReserveListSerializer, \
+    BookWriteSerializer
 from utilities.constants import REQUEST_STATUS, RESERVE_STATUS
 from utilities.helper import create_response_dict
 from utilities.messages import LIBRARIAN_BOOK_RETRIEVE_FAIL, LIBRARIAN_BOOK_RETRIEVE_SUCCESS, LIBRARIAN_BOOK_FETCH_FAIL, \
     LIBRARIAN_BOOK_FETCH_SUCCESS, LIBRARIAN_REQUEST_FETCH_SUCCESS, LIBRARIAN_REQUEST_FETCH_FAIL, \
     LIBRARIAN_REQUEST_RETRIEVE_SUCCESS, LIBRARIAN_REQUEST_RETRIEVE_FAIL, LIBRARIAN_REQUEST_UPDATE_SUCCESS, \
     LIBRARIAN_REQUEST_UPDATE_FAIL, LIBRARIAN_RESERVE_FETCH_SUCCESS, LIBRARIAN_RESERVE_FETCH_FAIL, \
-    LIBRARIAN_RESERVE_RETRIEVE_SUCCESS, LIBRARIAN_RESERVE_RETRIEVE_FAIL
+    LIBRARIAN_RESERVE_RETRIEVE_SUCCESS, LIBRARIAN_RESERVE_RETRIEVE_FAIL, LIBRARIAN_BOOK_CREATE_SUCCESS, \
+    LIBRARIAN_BOOK_CREATE_FAIL, LIBRARIAN_BOOK_UPDATE_SUCCESS, LIBRARIAN_BOOK_UPDATE_FAIL, LIBRARIAN_BOOK_DELETE_FAIL, \
+    LIBRARIAN_BOOK_DELETE_SUCCESS
 from utilities.pagination import CustomOffsetPagination
 from utilities.permissions import IsLibrarian
 
@@ -28,6 +31,8 @@ class BookViewSet(GenericViewSet):
     def get_serializer_class(self):
         if self.action in ['retrieve']:
             return BookRetrieveSerializer
+        elif self.action in ['create', 'update', 'partial_update']:
+            return BookWriteSerializer
         return BookListSerializer
 
     def list(self, request, *args, **kwargs):
@@ -77,6 +82,71 @@ class BookViewSet(GenericViewSet):
             return Response(data, status=status.HTTP_200_OK)
         except Exception as e:
             data = create_response_dict(str(e), LIBRARIAN_BOOK_RETRIEVE_FAIL, False)
+            return Response(data, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+    def create(self, request, *args, **kwargs):
+        """
+        API to create a Book
+        :param request:
+        :param args:
+        :param kwargs:
+        :return:
+        """
+        try:
+            serializer = self.get_serializer(data=request.data, context={'request': request})
+            if serializer.is_valid():
+                serializer.save()
+                data = create_response_dict(serializer.data, LIBRARIAN_BOOK_CREATE_SUCCESS, True)
+                return Response(data, status=status.HTTP_200_OK)
+            else:
+                data = create_response_dict('', LIBRARIAN_BOOK_CREATE_FAIL, False)
+                return Response(data, status=status.HTTP_400_BAD_REQUEST)
+        except Exception as e:
+            data = create_response_dict(str(e), LIBRARIAN_BOOK_CREATE_FAIL, False)
+            return Response(data, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+    def partial_update(self, request, *args, **kwargs):
+        """
+        API to edit a Book
+        :param request:
+        :param args:
+        :param kwargs:
+        :return:
+        """
+        try:
+            partial = kwargs.pop('partial', True)
+            instance = self.get_object()
+            serializer = self.get_serializer(instance, data=request.data, partial=partial, context={'request': request})
+            if serializer.is_valid():
+                serializer.save()
+                data = create_response_dict(serializer.data, LIBRARIAN_BOOK_UPDATE_SUCCESS, True)
+                return Response(data, status=status.HTTP_200_OK)
+            else:
+                data = create_response_dict('', LIBRARIAN_BOOK_UPDATE_FAIL, False)
+                return Response(data, status=status.HTTP_400_BAD_REQUEST)
+        except Exception as e:
+            data = create_response_dict(str(e), LIBRARIAN_BOOK_UPDATE_FAIL, False)
+            return Response(data, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+    def destroy(self, request, *args, **kwargs):
+        """
+        API to hard delete a Book
+        :param request:
+        :param args:
+        :param kwargs:
+        :return:
+        """
+        try:
+            try:
+                instance = self.get_object()
+            except Exception as e:
+                data = create_response_dict([], LIBRARIAN_BOOK_DELETE_FAIL, False)
+                return Response(data, status=status.HTTP_400_BAD_REQUEST)
+            instance.delete()
+            data = create_response_dict([], LIBRARIAN_BOOK_DELETE_SUCCESS, True)
+            return Response(data, status=status.HTTP_200_OK)
+        except Exception as e:
+            data = create_response_dict(str(e), LIBRARIAN_BOOK_DELETE_FAIL, False)
             return Response(data, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 
@@ -139,7 +209,7 @@ class RequestViewSet(GenericViewSet):
 
     def partial_update(self, request, *args, **kwargs):
         """
-        API to retrieve a Request
+        API to edit a Request
         :param request:
         :param args:
         :param kwargs:
