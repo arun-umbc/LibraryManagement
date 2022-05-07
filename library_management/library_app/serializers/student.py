@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from library_app.models import Book, User, Request
+from library_app.models import Book, User, Request, Reserve
 from utilities.constants import REQUEST_STATUS
 from utilities.helper import create_db_id
 
@@ -59,3 +59,20 @@ class RequestWriteSerializer(serializers.ModelSerializer):
     class Meta:
         model = Request
         fields = ('book', 'request_for')
+
+
+class ReserveListSerializer(serializers.ModelSerializer):
+    book = serializers.CharField(source='request.book.name')
+
+    class Meta:
+        model = Reserve
+        fields = ('reserve_id', 'reserve_status', 'book')
+
+
+class ReserveRetrieveSerializer(serializers.ModelSerializer):
+    book = serializers.CharField(source='request.book.name')
+    request_for = serializers.CharField(source='request.request_for')
+
+    class Meta:
+        model = Reserve
+        exclude = ('created_at', 'updated_at', 'request')
