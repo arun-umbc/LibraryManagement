@@ -96,7 +96,7 @@ class BookViewSet(GenericViewSet):
             serializer = self.get_serializer(data=request.data, context={'request': request})
             if serializer.is_valid():
                 serializer.save()
-                data = create_response_dict(serializer.data, LIBRARIAN_BOOK_CREATE_SUCCESS, True)
+                data = create_response_dict({"pk": serializer.instance.book_id}, LIBRARIAN_BOOK_CREATE_SUCCESS, True)
                 return Response(data, status=status.HTTP_200_OK)
             else:
                 data = create_response_dict('', LIBRARIAN_BOOK_CREATE_FAIL, False)

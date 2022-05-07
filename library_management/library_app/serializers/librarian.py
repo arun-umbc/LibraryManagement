@@ -27,6 +27,7 @@ class BookWriteSerializer(serializers.ModelSerializer):
         for key, value in validated_data.items():
             setattr(book, key, value)
         book.save()
+        return book
 
     class Meta:
         model = Book
