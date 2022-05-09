@@ -31,7 +31,6 @@ LIBRARIAN_REQUEST_UPDATE_FAIL = 'Request update failed'
 STUDENT_PROFILE_RETRIEVE_SUCCESS = 'Profile retrieve successful'
 STUDENT_PROFILE_RETRIEVE_FAIL = 'Profile retrieve failed'
 
-
 STUDENT_REQUEST_FETCH_SUCCESS = 'Request fetch successful'
 STUDENT_REQUEST_FETCH_FAIL = 'Request fetch failed'
 STUDENT_REQUEST_RETRIEVE_SUCCESS = 'Request retrieve successful'
@@ -46,12 +45,13 @@ STUDENT_RESERVE_FETCH_FAIL = 'Reserve fetch failed'
 STUDENT_RESERVE_RETRIEVE_SUCCESS = 'Reserve retrieve successful'
 STUDENT_RESERVE_RETRIEVE_FAIL = 'Reserve retrieve failed'
 
-
 LIBRARIAN_RESERVE_FETCH_SUCCESS = 'Reserve fetch successful'
 LIBRARIAN_RESERVE_FETCH_FAIL = 'Reserve fetch failed'
 LIBRARIAN_RESERVE_RETRIEVE_SUCCESS = 'Reserve retrieve successful'
 LIBRARIAN_RESERVE_RETRIEVE_FAIL = 'Reserve retrieve failed'
 
-
 EXTERNAL_USER_DATA_FETCH_SUCCESS = 'External user data fetch successful'
 EXTERNAL_USER_DATA_FETCH_FAIL = 'External user data fetch failed'
+
+STUDENT_FORGOTTEN_SUCCESS = 'Student Forgotten successful'
+STUDENT_FORGOTTEN_FAIL = 'Student Forgotten failed'

@@ -16,7 +16,8 @@ from utilities.messages import STUDENT_BOOK_FETCH_SUCCESS, STUDENT_BOOK_FETCH_FA
     STUDENT_REQUEST_FETCH_SUCCESS, STUDENT_REQUEST_FETCH_FAIL, STUDENT_REQUEST_RETRIEVE_SUCCESS, \
     STUDENT_REQUEST_RETRIEVE_FAIL, STUDENT_REQUEST_CREATE_SUCCESS, STUDENT_REQUEST_CREATE_FAIL, \
     STUDENT_REQUEST_DELETE_FAIL, STUDENT_REQUEST_DELETE_SUCCESS, STUDENT_RESERVE_FETCH_SUCCESS, \
-    STUDENT_RESERVE_FETCH_FAIL, STUDENT_RESERVE_RETRIEVE_SUCCESS, STUDENT_RESERVE_RETRIEVE_FAIL
+    STUDENT_RESERVE_FETCH_FAIL, STUDENT_RESERVE_RETRIEVE_SUCCESS, STUDENT_RESERVE_RETRIEVE_FAIL, \
+    STUDENT_FORGOTTEN_SUCCESS, STUDENT_FORGOTTEN_FAIL
 from utilities.pagination import CustomOffsetPagination
 from utilities.permissions import IsStudent
 
@@ -260,4 +261,28 @@ class ReserveViewSet(GenericViewSet):
             return Response(data, status=status.HTTP_200_OK)
         except Exception as e:
             data = create_response_dict(str(e), STUDENT_RESERVE_RETRIEVE_FAIL, False)
+            return Response(data, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+class ForgottenView(GenericAPIView):
+    queryset = User.objects.filter()
+    authentication_classes = (TokenAuthentication,)
+    permission_classes = (IsAuthenticated, IsStudent)
+    pagination_class = CustomOffsetPagination
+
+    def post(self, request, *args, **kwargs):
+        """
+        Student forgotten API
+        :param request:
+        :param args:
+        :param kwargs:
+        :return:
+        """
+        try:
+            user = request.user
+            user.delete()
+            data = create_response_dict([], STUDENT_FORGOTTEN_SUCCESS, True)
+            return Response(data, status=status.HTTP_201_CREATED)
+        except Exception as e:
+            data = create_response_dict(str(e), STUDENT_FORGOTTEN_FAIL, False)
             return Response(data, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
